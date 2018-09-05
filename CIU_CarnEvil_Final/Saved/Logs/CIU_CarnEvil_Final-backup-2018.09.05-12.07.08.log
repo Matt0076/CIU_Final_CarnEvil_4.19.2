@@ -1,0 +1,1401 @@
+﻿Log file open, 09/05/18 11:43:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CIU_CarnEvil_Final
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1777929308) SRandInit(1777929308).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.653860
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.548s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-QTNQBAN (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Game Engines/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.05-01.43.17:112][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-01.43.17:112][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.05-01.43.17:129][  0]LogInit: Computer: DESKTOP-QTNQBAN
+[2018.09.05-01.43.17:129][  0]LogInit: User: Matt
+[2018.09.05-01.43.17:129][  0]LogInit: CPU Page size=4096, Cores=10
+[2018.09.05-01.43.17:130][  0]LogInit: High frequency timer resolution =3.234370 MHz
+[2018.09.05-01.43.17:130][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.09.05-01.43.17:130][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.05-01.43.17:130][  0]LogMemory: Process Physical Memory: 277.53 MB used, 277.53 MB peak
+[2018.09.05-01.43.17:130][  0]LogMemory: Process Virtual Memory: 275.21 MB used, 275.21 MB peak
+[2018.09.05-01.43.17:130][  0]LogMemory: Physical Memory: 16447.50 MB used,  15998.87 MB free, 32446.36 MB total
+[2018.09.05-01.43.17:130][  0]LogMemory: Virtual Memory: 4845.62 MB used,  15998.87 MB free, 134217728.00 MB total
+[2018.09.05-01.43.17:152][  0]LogInit: Using OS detected language (en-GB).
+[2018.09.05-01.43.17:152][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.05-01.43.17:158][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.09.05-01.43.17:536][  0]LogStreaming: Display: Took  0.384s to EndInitTextLocalization.
+[2018.09.05-01.43.17:536][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.05-01.43.17:606][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.05-01.43.17:606][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.05-01.43.17:779][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.05-01.43.17:880][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.09.05-01.43.17:880][  0]LogD3D11RHI:       11127/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.05-01.43.17:883][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.05-01.43.17:883][  0]LogD3D11RHI:       0/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.05-01.43.17:883][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.05-01.43.17:898][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.05-01.43.17:898][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.05-01.43.17:898][  0]LogWindows: EnumDisplayDevices:
+[2018.09.05-01.43.17:898][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.09.05-01.43.17:898][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.05-01.43.17:899][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.05-01.43.17:899][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.05-01.43.17:899][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.05-01.43.17:899][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.09.05-01.43.17:899][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.05-01.43.17:899][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.05-01.43.17:899][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.09.05-01.43.17:963][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.05-01.43.17:963][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.05-01.43.17:963][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.05-01.43.18:034][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.05-01.43.18:038][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Intermediate/Shaders/WorkingDirectory/29288/).
+[2018.09.05-01.43.18:039][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/038B169E457176C04DE528B77997C211/'.
+[2018.09.05-01.43.18:351][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.05-01.43.18:363][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.05-01.43.18:374][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.05-01.43.18:386][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.05-01.43.18:396][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.05-01.43.18:406][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.05-01.43.18:427][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.05-01.43.18:446][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.05-01.43.18:453][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.05-01.43.18:465][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.05-01.43.18:477][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.05-01.43.18:495][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.05-01.43.18:508][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.05-01.43.18:518][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.05-01.43.18:532][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.05-01.43.18:552][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.05-01.43.18:552][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.05-01.43.18:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-01.43.18:562][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.05-01.43.18:597][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.05-01.43.18:606][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.05-01.43.18:615][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.05-01.43.18:625][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.05-01.43.18:633][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.05-01.43.18:643][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.05-01.43.18:643][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.05-01.43.18:705][  0]LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.05-01.43.18:705][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.05-01.43.18:705][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.05-01.43.18:705][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.05-01.43.19:255][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.05-01.43.19:326][  0]LogDerivedDataCache: Loaded boot cache 0.07s 90MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.05-01.43.19:326][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.05-01.43.19:326][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.05-01.43.19:326][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.05-01.43.19:326][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.05-01.43.19:326][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.05-01.43.19:339][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.05-01.43.19:351][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.05-01.43.19:351][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.05-01.43.19:351][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.05-01.43.19:375][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.05-01.43.19:376][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.05-01.43.19:377][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.05-01.43.19:377][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.05-01.43.19:486][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.09.05-01.43.19:770][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-01.43.19:902][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.05-01.43.19:903][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.05-01.43.19:903][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.05-01.43.19:903][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.05-01.43.19:903][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.05-01.43.19:903][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.05-01.43.19:930][  0]LogNetVersion: CIU_CarnEvil_Final , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2718905845)
+[2018.09.05-01.43.20:404][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.067904 seconds
+[2018.09.05-01.43.20:409][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.05-01.43.20:409][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.09.05-01.43.20:409][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.05-01.43.21:906][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.05-01.43.21:929][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.05-01.43.22:174][  0]SourceControl: Source control is disabled
+[2018.09.05-01.43.22:174][  0]SourceControl: Source control is disabled
+[2018.09.05-01.43.22:183][  0]SourceControl: Source control is disabled
+[2018.09.05-01.43.22:192][  0]SourceControl: Source control is disabled
+[2018.09.05-01.43.22:496][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.05-01.43.22:674][  0]LogOcInput: OculusInput pre-init called
+[2018.09.05-01.43.22:748][  0]LogEngine: Initializing Engine...
+[2018.09.05-01.43.27:997][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.09.05-01.43.27:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.05-01.43.27:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.05-01.43.28:200][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.05-01.43.28:270][  0]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.43.28:284][  0]LogInit: FAudioDevice initialized.
+[2018.09.05-01.43.28:370][  0]LogDerivedDataCache: Saved boot cache 0.09s 90MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.05-01.43.28:395][  0]LogInit: Texture streaming: Enabled
+[2018.09.05-01.43.28:406][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.05-01.43.28:427][  0]LogInit: Transaction tracking system initialized
+[2018.09.05-01.43.28:442][  0]BlueprintLog: New page: Editor Load
+[2018.09.05-01.43.28:484][  0]LocalizationService: Localization service is disabled
+[2018.09.05-01.43.28:570][  0]LogConsoleResponse: Display: 
+[2018.09.05-01.43.28:680][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.05-01.43.28:680][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.05-01.43.28:680][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.05-01.43.28:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.05-01.43.28:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.05-01.43.28:896][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/' took 0.04s
+[2018.09.05-01.43.28:896][  0]SourceControl: Source control is disabled
+[2018.09.05-01.43.28:896][  0]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.05-01.43.28:897][  0]LightingResults: New page: Lighting Build
+[2018.09.05-01.43.28:899][  0]MapCheck: New page: Map Check
+[2018.09.05-01.43.28:899][  0]LightingResults: New page: Lighting Build
+[2018.09.05-01.43.29:006][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae86fb8d48, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.05-01.43.29:008][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae86fb8d48, Size=24
+[2018.09.05-01.43.29:008][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae86fb8d48, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_0:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.05-01.43.29:011][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae93b17d30, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.05-01.43.29:048][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae87c53000, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.05-01.43.29:071][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae87c53000, Size=968
+[2018.09.05-01.43.29:071][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae87c53000, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_8:ExecuteUbergraph_BP_MotionController
+[2018.09.05-01.43.29:090][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae87c51000, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.05-01.43.29:096][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae87242200, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.05-01.43.29:106][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae87242200, Size=752
+[2018.09.05-01.43.29:106][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae87299000, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_10:ExecuteUbergraph_MotionControllerPawn
+[2018.09.05-01.43.29:114][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae87298100, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.05-01.43.29:648][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.808389ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.09.05-01.43.29:798][  0]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.05-01.43.30:011][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.05-01.43.30:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae86fb8d48, Size=24
+[2018.09.05-01.43.30:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae87c53000, Size=968
+[2018.09.05-01.43.30:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae87299000, Size=752
+[2018.09.05-01.43.30:028][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.05-01.43.30:062][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.561ms to complete.
+[2018.09.05-01.43.30:062][  0]LogFileHelpers: Loading map 'IntroScene' took 1.165
+[2018.09.05-01.43.30:231][  0]LogCollectionManager: Loaded 0 collections in 0.000781 seconds
+[2018.09.05-01.43.30:276][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Collections/' took 0.01s
+[2018.09.05-01.43.30:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Developers/Matt/Collections/' took 0.01s
+[2018.09.05-01.43.30:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Collections/' took 0.01s
+[2018.09.05-01.43.30:277][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.05-01.43.30:300][  0]LogContentBrowser: Native class hierarchy populated in 0.0231 seconds. Added 2452 classes and 558 folders.
+[2018.09.05-01.43.30:306][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.05-01.43.30:337][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.05-01.43.30:342][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.05-01.43.30:432][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.05-01.43.30:432][  0]LogLoad: (Engine Initialization) Total time: 15.83 seconds
+[2018.09.05-01.43.30:432][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.05-01.43.30:441][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-01.43.30:462][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.05-01.43.30:464][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.05-01.43.30:466][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.05-01.43.30:470][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.05-01.43.30:623][  1]LogRenderer: Reallocating scene render targets to support 1012x496 Format 10 NumSamples 1 (Frame:1).
+[2018.09.05-01.43.30:789][  1]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.05-01.43.30:805][  2]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (OriginalAsset_Carn_Wall_Sprite2)
+[2018.09.05-01.43.30:855][  2]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2018.09.05-01.43.30:887][  2]LogAssetRegistry: Asset discovery search completed in 11.4241 seconds
+[2018.09.05-01.43.30:891][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.05-01.43.30:891][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.09.05-01.43.33:295][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.43.37:222][719]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.05-01.43.37:244][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed75a7f20, Size=32, Default__BP_Bat_C Function /Game/Blueprints/HeartBall/BP_Bat.BP_Bat_C:ExecuteUbergraph_BP_Bat
+[2018.09.05-01.43.37:247][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed75a7f20, Size=32
+[2018.09.05-01.43.37:247][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed75a7f20, Size=32, Default__BP_Bat_C Function /Engine/Transient.REINST_BP_Bat_C_12:ExecuteUbergraph_BP_Bat
+[2018.09.05-01.43.37:248][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed75a6d80, Size=32, Default__BP_Bat_C Function /Game/Blueprints/HeartBall/BP_Bat.BP_Bat_C:ExecuteUbergraph_BP_Bat
+[2018.09.05-01.43.37:258][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed75a6a80, Size=32, Default__BP_Heart_C Function /Game/Blueprints/HeartBall/BP_Heart.BP_Heart_C:ExecuteUbergraph_BP_Heart
+[2018.09.05-01.43.37:260][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed75a6a80, Size=32
+[2018.09.05-01.43.37:260][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed75a6a80, Size=32, Default__BP_Heart_C Function /Engine/Transient.REINST_BP_Heart_C_14:ExecuteUbergraph_BP_Heart
+[2018.09.05-01.43.37:262][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed75a7c00, Size=32, Default__BP_Heart_C Function /Game/Blueprints/HeartBall/BP_Heart.BP_Heart_C:ExecuteUbergraph_BP_Heart
+[2018.09.05-01.43.37:297][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec66de7f0, Size=112, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.43.37:300][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec66de7f0, Size=112
+[2018.09.05-01.43.37:300][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec66de7f0, Size=112, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_16:ExecuteUbergraph_HeartBall
+[2018.09.05-01.43.37:302][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2be91d00, Size=112, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.43.37:367][719]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.43.37:405][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec66de7f0, Size=112
+[2018.09.05-01.43.37:405][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed75a6a80, Size=32
+[2018.09.05-01.43.37:405][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed75a7f20, Size=32
+[2018.09.05-01.43.37:406][719]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.05-01.43.37:406][719]LightingResults: New page: Lighting Build
+[2018.09.05-01.43.37:407][719]LoadErrors: New page: Loading map: HeartBall.umap
+[2018.09.05-01.43.37:408][719]MapCheck: New page: Map Check
+[2018.09.05-01.43.37:408][719]LightingResults: New page: Lighting Build
+[2018.09.05-01.43.37:480][719]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.05-01.43.37:538][719]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.05-01.43.37:583][719]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.982ms to complete.
+[2018.09.05-01.43.37:584][719]LogFileHelpers: Loading map 'HeartBall' took 0.180
+[2018.09.05-01.44.27:327][600]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor_ScoreBoard)
+[2018.09.05-01.44.29:726][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.44.31:469][ 74]Cmd: MODE GRID=0
+[2018.09.05-01.44.35:383][505]Cmd: DUPLICATE
+[2018.09.05-01.44.35:383][505]Cmd: ACTOR DUPLICATE
+[2018.09.05-01.44.39:806][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.45.05:892][108]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor_ScoreTotal)
+[2018.09.05-01.45.07:794][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.45.28:010][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.45.33:633][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScoreBoard)
+[2018.09.05-01.45.37:543][807]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor_ScoreTotal)
+[2018.09.05-01.45.39:043][978]Cmd: TRANSACTION UNDO
+[2018.09.05-01.45.39:043][978]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.05-01.45.40:279][114]Cmd: TRANSACTION UNDO
+[2018.09.05-01.45.40:279][114]LogEditorTransaction: Undo Move Actors
+[2018.09.05-01.45.43:614][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.45.54:351][752]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.05-01.45.54:351][752]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.05-01.45.54:357][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-01.45.55:731][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-01.45.55:990][895]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.05-01.45.56:211][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af43bad240, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.05-01.45.56:212][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af43bad238, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.05-01.45.56:492][895]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.05-01.45.56:551][896]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.05-01.46.08:198][223]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-01.46.10:834][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.46.20:403][639]Cmd: DELETE
+[2018.09.05-01.46.20:403][639]Cmd: ACTOR DELETE
+[2018.09.05-01.46.20:404][639]LogEditorActor: Deleted Actor: BP_Bat_C
+[2018.09.05-01.46.20:432][639]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.05-01.46.40:287][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.46.50:559][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.47.08:736][293]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3bce0ff8, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.47.26:986][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3bce0ff8, Size=4
+[2018.09.05-01.47.26:986][437]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae988e3508, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_32:ExecuteUbergraph_HeartBall
+[2018.09.05-01.47.26:988][437]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae988e3890, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.47.32:766][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae988e3890, Size=4
+[2018.09.05-01.47.32:766][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b846038, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_34:ExecuteUbergraph_HeartBall
+[2018.09.05-01.47.32:767][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b845968, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.47.48:766][962]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b845968, Size=4
+[2018.09.05-01.47.48:766][962]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af49957b20, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_36:ExecuteUbergraph_HeartBall
+[2018.09.05-01.47.48:768][962]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af499552f0, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.48.48:485][959]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.48.48:491][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af499552f0, Size=4
+[2018.09.05-01.48.48:492][959]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b845ce8, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_38:ExecuteUbergraph_HeartBall
+[2018.09.05-01.48.48:497][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2be91d00, Size=112
+[2018.09.05-01.48.48:498][959]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af4a17f740, Size=112, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_40:ExecuteUbergraph_HeartBall
+[2018.09.05-01.48.48:500][959]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af488c0640, Size=192, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.48.48:587][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b845ce8, Size=4
+[2018.09.05-01.48.48:587][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af49957b20, Size=4
+[2018.09.05-01.48.48:587][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b846038, Size=4
+[2018.09.05-01.48.48:587][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae988e3508, Size=4
+[2018.09.05-01.48.49:167][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.48.49:197][ 16]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af4a17f740, Size=112
+[2018.09.05-01.48.49:230][ 16]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af488c0640, Size=192
+[2018.09.05-01.48.49:230][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af469d7640, Size=192, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_44:ExecuteUbergraph_HeartBall
+[2018.09.05-01.48.49:233][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af469d5540, Size=192, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.48.49:394][ 16]LogSavePackage: Save=174.75ms
+[2018.09.05-01.48.49:395][ 16]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBallC45F4D944CD20624554E408C389271B1.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.48.49:398][ 16]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.48.49:450][ 16]LogFileHelpers: Saving map 'HeartBall' took 0.328
+[2018.09.05-01.48.51:128][200]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.48.51:152][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.48.51:153][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.48.51:153][200]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:48:51)
+[2018.09.05-01.48.51:153][200]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.48.51:161][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007272s)
+[2018.09.05-01.48.51:161][200]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.48.51:161][200]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.09.05-01.48.51:161][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.008090s)
+[2018.09.05-01.48.51:188][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af469d7640, Size=192
+[2018.09.05-01.48.51:198][200]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.48.51:215][200]LogInit: FAudioDevice initialized.
+[2018.09.05-01.48.51:262][200]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.48.51:262][200]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.48.51:268][200]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.48.51
+[2018.09.05-01.48.51:269][200]LogWorld: Bringing up level for play took: 0.004529
+[2018.09.05-01.48.51:270][200]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.48.51:279][200]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.09.05-01.48.51:281][200]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.467
+[2018.09.05-01.48.51:288][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.48.54:522][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.48.54:589][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.48.54:631][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.05:765][836]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.49.05:775][836]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af469d5540, Size=192
+[2018.09.05-01.49.05:775][836]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec60b7b80, Size=192, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_48:ExecuteUbergraph_HeartBall
+[2018.09.05-01.49.05:779][836]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec60b4b80, Size=192, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.49.06:508][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.49.06:540][897]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec60b7b80, Size=192
+[2018.09.05-01.49.06:558][897]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec60b4b80, Size=192
+[2018.09.05-01.49.06:558][897]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af00e06500, Size=192, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_52:ExecuteUbergraph_HeartBall
+[2018.09.05-01.49.06:561][897]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af00e04580, Size=192, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.49.06:724][897]LogSavePackage: Save=176.07ms
+[2018.09.05-01.49.06:724][897]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBall66494FD64BD07C9CCAE6399929156596.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.49.06:727][897]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.49.06:763][897]LogFileHelpers: Saving map 'HeartBall' took 0.296
+[2018.09.05-01.49.09:448][203]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.49.09:466][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.09:466][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.49.09:467][203]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:49:09)
+[2018.09.05-01.49.09:467][203]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.49.09:473][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006692s)
+[2018.09.05-01.49.09:474][203]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.49.09:474][203]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.09.05-01.49.09:474][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.007459s)
+[2018.09.05-01.49.09:500][203]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af00e06500, Size=192
+[2018.09.05-01.49.09:514][203]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.49.09:527][203]LogInit: FAudioDevice initialized.
+[2018.09.05-01.49.09:569][203]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.49.09:570][203]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.49.09:574][203]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.49.09
+[2018.09.05-01.49.09:575][203]LogWorld: Bringing up level for play took: 0.004579
+[2018.09.05-01.49.09:576][203]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.49.09:581][203]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.766
+[2018.09.05-01.49.09:585][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.11:792][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.11:838][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.30:323][615]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.49.30:348][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.30:348][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.49.30:348][615]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:49:30)
+[2018.09.05-01.49.30:348][615]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.49.30:355][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007215s)
+[2018.09.05-01.49.30:356][615]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.49.30:356][615]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.09.05-01.49.30:356][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.007973s)
+[2018.09.05-01.49.30:389][615]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.49.30:401][615]LogInit: FAudioDevice initialized.
+[2018.09.05-01.49.30:438][615]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.49.30:438][615]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.49.30:443][615]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.49.30
+[2018.09.05-01.49.30:443][615]LogWorld: Bringing up level for play took: 0.003938
+[2018.09.05-01.49.30:444][615]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.49.30:447][615]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall -0.367
+[2018.09.05-01.49.30:451][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.39:438][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.39:489][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.40:851][834]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.09.05-01.49.41:880][950]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_BatSpawn)
+[2018.09.05-01.49.44:784][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.49.55:149][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.49.55:248][514]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.49.55:268][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.49.55:268][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.49.55:268][514]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:49:55)
+[2018.09.05-01.49.55:268][514]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.49.55:275][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006524s)
+[2018.09.05-01.49.55:275][514]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.49.55:276][514]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.09.05-01.49.55:276][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.007273s)
+[2018.09.05-01.49.55:305][514]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.49.55:314][514]LogInit: FAudioDevice initialized.
+[2018.09.05-01.49.55:349][514]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.49.55:349][514]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.49.55:353][514]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.49.55
+[2018.09.05-01.49.55:354][514]LogWorld: Bringing up level for play took: 0.003697
+[2018.09.05-01.49.55:355][514]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.49.55:359][514]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.544
+[2018.09.05-01.49.55:363][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.50.00:977][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.50.01:018][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.50.07:942][938]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b847b58, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.50.28:208][332]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.50.28:213][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b847b58, Size=4
+[2018.09.05-01.50.28:213][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b77f6f8, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_56:ExecuteUbergraph_HeartBall
+[2018.09.05-01.50.28:218][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af00e04580, Size=192
+[2018.09.05-01.50.28:218][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed65fe8c0, Size=192, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_58:ExecuteUbergraph_HeartBall
+[2018.09.05-01.50.28:221][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aed44dea20, Size=208, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.50.28:312][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b77f6f8, Size=4
+[2018.09.05-01.50.28:939][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.50.28:970][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed65fe8c0, Size=192
+[2018.09.05-01.50.28:994][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed44dea20, Size=208
+[2018.09.05-01.50.28:994][395]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae86f93ac0, Size=208, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_62:ExecuteUbergraph_HeartBall
+[2018.09.05-01.50.28:997][395]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af49854640, Size=208, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.50.29:153][395]LogSavePackage: Save=171.50ms
+[2018.09.05-01.50.29:153][395]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBall0FBB8E1549C3AB5D226325A125821FCC.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.50.29:156][395]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.50.29:205][395]LogFileHelpers: Saving map 'HeartBall' took 0.305
+[2018.09.05-01.50.30:860][583]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.50.30:885][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.50.30:885][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.50.30:885][583]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:50:30)
+[2018.09.05-01.50.30:885][583]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.50.30:894][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008826s)
+[2018.09.05-01.50.30:895][583]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.50.30:895][583]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.09.05-01.50.30:895][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.009800s)
+[2018.09.05-01.50.30:925][583]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae86f93ac0, Size=208
+[2018.09.05-01.50.30:937][583]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.50.30:947][583]LogInit: FAudioDevice initialized.
+[2018.09.05-01.50.30:981][583]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.50.30:981][583]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.50.30:985][583]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.50.30
+[2018.09.05-01.50.30:986][583]LogWorld: Bringing up level for play took: 0.004051
+[2018.09.05-01.50.30:986][583]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.50.30:989][583]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.175
+[2018.09.05-01.50.30:993][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.50.36:961][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.50.37:005][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.50.55:133][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.51.13:378][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.51.34:476][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.52.01:844][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.52.22:917][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.52.26:598][803]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec4b51e70, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.52.53:874][ 96]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec4b51e70, Size=4
+[2018.09.05-01.52.53:874][ 96]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b8460c0, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_66:ExecuteUbergraph_HeartBall
+[2018.09.05-01.52.53:878][ 96]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b8464b8, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.52.55:655][301]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.52.55:662][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b8464b8, Size=4
+[2018.09.05-01.52.55:662][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec5f5f980, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_68:ExecuteUbergraph_HeartBall
+[2018.09.05-01.52.55:667][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af49854640, Size=208
+[2018.09.05-01.52.55:667][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af45978aa0, Size=208, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_70:ExecuteUbergraph_HeartBall
+[2018.09.05-01.52.55:670][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af45424d40, Size=208, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.52.55:752][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec5f5f980, Size=4
+[2018.09.05-01.52.55:752][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b8460c0, Size=4
+[2018.09.05-01.53.06:932][564]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af4e9ba048, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.16:406][675]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2018.09.05-01.53.16:421][675]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af4e9ba048, Size=4
+[2018.09.05-01.53.16:421][675]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b847398, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_74:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.16:423][675]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b847dd0, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.20:089][ 96]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b847dd0, Size=4
+[2018.09.05-01.53.20:089][ 96]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b77c470, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_76:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.20:091][ 96]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3b77cbd0, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.28:231][ 27]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.53.28:238][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b77cbd0, Size=4
+[2018.09.05-01.53.28:238][ 27]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3bce05a0, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_78:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.28:245][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af45424d40, Size=208
+[2018.09.05-01.53.28:245][ 27]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2c1ea5c0, Size=208, HeartBall_C_0 Function /Engine/Transient.REINST_HeartBall_C_80:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.28:248][ 27]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af47512e80, Size=320, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.28:340][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b77c470, Size=4
+[2018.09.05-01.53.28:340][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3bce05a0, Size=4
+[2018.09.05-01.53.28:340][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af3b847398, Size=4
+[2018.09.05-01.53.28:340][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af45978aa0, Size=208
+[2018.09.05-01.53.29:169][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.53.29:222][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af47512e80, Size=320
+[2018.09.05-01.53.29:222][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af4cb0bec0, Size=320, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_84:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.29:226][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af4c259a80, Size=320, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.53.29:406][112]LogSavePackage: Save=197.58ms
+[2018.09.05-01.53.29:406][112]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBallD94F6397463E84C1F9A388B48D332DEE.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.53.29:409][112]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.53.29:458][112]LogFileHelpers: Saving map 'HeartBall' took 0.332
+[2018.09.05-01.53.31:280][309]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.53.31:303][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.53.31:303][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.53.31:303][309]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:53:31)
+[2018.09.05-01.53.31:303][309]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.53.31:310][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006550s)
+[2018.09.05-01.53.31:311][309]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.53.31:311][309]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.09.05-01.53.31:311][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.007344s)
+[2018.09.05-01.53.31:334][309]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af4cb0bec0, Size=320
+[2018.09.05-01.53.31:334][309]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2c1ea5c0, Size=208
+[2018.09.05-01.53.31:342][309]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.53.31:354][309]LogInit: FAudioDevice initialized.
+[2018.09.05-01.53.31:391][309]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.53.31:391][309]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.53.31:396][309]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.53.31
+[2018.09.05-01.53.31:397][309]LogWorld: Bringing up level for play took: 0.004940
+[2018.09.05-01.53.31:398][309]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.53.31:403][309]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.589
+[2018.09.05-01.53.31:407][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.53.37:787][952]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-01.53.52:492][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.53.52:550][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.53.52:595][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.54.32:922][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.54.33:005][ 70]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.54.33:029][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.54.33:029][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.54.33:029][ 70]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:54:33)
+[2018.09.05-01.54.33:029][ 70]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.54.33:039][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009819s)
+[2018.09.05-01.54.33:040][ 70]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.54.33:040][ 70]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.09.05-01.54.33:040][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.010632s)
+[2018.09.05-01.54.33:081][ 70]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.54.33:092][ 70]LogInit: FAudioDevice initialized.
+[2018.09.05-01.54.33:132][ 70]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.54.33:132][ 70]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.54.33:137][ 70]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.54.33
+[2018.09.05-01.54.33:138][ 70]LogWorld: Bringing up level for play took: 0.004897
+[2018.09.05-01.54.33:138][ 70]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.54.33:142][ 70]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.328
+[2018.09.05-01.54.33:146][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.54.48:348][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.54.48:394][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.55.10:945][388]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.55.10:962][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af4c259a80, Size=320
+[2018.09.05-01.55.10:962][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af5e6bb380, Size=320, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_88:ExecuteUbergraph_HeartBall
+[2018.09.05-01.55.10:965][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af00c76500, Size=336, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.55.11:745][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.55.11:774][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af5e6bb380, Size=320
+[2018.09.05-01.55.11:813][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af00c76500, Size=336
+[2018.09.05-01.55.11:813][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae93487700, Size=336, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_92:ExecuteUbergraph_HeartBall
+[2018.09.05-01.55.11:817][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af00c74100, Size=336, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.55.11:984][458]LogSavePackage: Save=190.73ms
+[2018.09.05-01.55.11:984][458]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBallAA4ED4B646AA83FA0E948A96CC5DA7C7.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.55.11:987][458]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.55.12:027][458]LogFileHelpers: Saving map 'HeartBall' took 0.321
+[2018.09.05-01.55.13:672][635]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.55.13:697][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.55.13:697][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.55.13:697][635]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:55:13)
+[2018.09.05-01.55.13:697][635]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.55.13:705][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007907s)
+[2018.09.05-01.55.13:706][635]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.55.13:706][635]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2018.09.05-01.55.13:706][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.008680s)
+[2018.09.05-01.55.13:733][635]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae93487700, Size=336
+[2018.09.05-01.55.13:742][635]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.55.13:753][635]LogInit: FAudioDevice initialized.
+[2018.09.05-01.55.13:792][635]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.55.13:792][635]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.55.13:796][635]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.55.13
+[2018.09.05-01.55.13:797][635]LogWorld: Bringing up level for play took: 0.004276
+[2018.09.05-01.55.13:797][635]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.55.13:802][635]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.988
+[2018.09.05-01.55.13:807][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.55.26:365][926]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-01.55.52:090][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.55.52:177][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.55.52:225][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.55.54:836][810]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.55.54:860][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.55.54:860][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.55.54:860][810]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:55:54)
+[2018.09.05-01.55.54:860][810]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.55.54:870][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009124s)
+[2018.09.05-01.55.54:870][810]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.55.54:870][810]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.09.05-01.55.54:870][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.009874s)
+[2018.09.05-01.55.54:911][810]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.55.54:928][810]LogInit: FAudioDevice initialized.
+[2018.09.05-01.55.54:966][810]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.55.54:966][810]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.55.54:971][810]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.55.54
+[2018.09.05-01.55.54:972][810]LogWorld: Bringing up level for play took: 0.004422
+[2018.09.05-01.55.54:972][810]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.55.54:977][810]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.162
+[2018.09.05-01.55.54:981][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.56.11:409][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.56.11:452][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.56.15:463][ 88]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_RespawnBat)
+[2018.09.05-01.56.24:492][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.56.27:217][456]Cmd: DUPLICATE
+[2018.09.05-01.56.27:217][456]Cmd: ACTOR DUPLICATE
+[2018.09.05-01.56.53:327][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.57.06:813][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec5f5ec68, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.57.55:411][298]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.57.55:420][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec5f5ec68, Size=4
+[2018.09.05-01.57.55:420][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af4e9ba8b0, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_96:ExecuteUbergraph_HeartBall
+[2018.09.05-01.57.55:428][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af00c74100, Size=336
+[2018.09.05-01.57.55:428][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae87c17700, Size=336, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_98:ExecuteUbergraph_HeartBall
+[2018.09.05-01.57.55:432][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af62cbd600, Size=368, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.57.55:527][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af4e9ba8b0, Size=4
+[2018.09.05-01.57.56:167][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.57.56:194][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae87c17700, Size=336
+[2018.09.05-01.57.56:221][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af62cbd600, Size=368
+[2018.09.05-01.57.56:221][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af00e9e500, Size=368, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_102:ExecuteUbergraph_HeartBall
+[2018.09.05-01.57.56:226][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af6298fd00, Size=368, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.57.56:436][358]LogSavePackage: Save=233.43ms
+[2018.09.05-01.57.56:436][358]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBall94AC8CCF473D4E526F914A8693CEE008.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.57.56:440][358]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.57.56:474][358]LogFileHelpers: Saving map 'HeartBall' took 0.350
+[2018.09.05-01.57.58:011][529]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.57.58:035][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.57.58:036][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.57.58:036][529]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:57:58)
+[2018.09.05-01.57.58:036][529]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.57.58:043][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007140s)
+[2018.09.05-01.57.58:044][529]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.57.58:044][529]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.09.05-01.57.58:044][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.007940s)
+[2018.09.05-01.57.58:074][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af00e9e500, Size=368
+[2018.09.05-01.57.58:085][529]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.57.58:097][529]LogInit: FAudioDevice initialized.
+[2018.09.05-01.57.58:138][529]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.57.58:139][529]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.57.58:144][529]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.57.58
+[2018.09.05-01.57.58:144][529]LogWorld: Bringing up level for play took: 0.004781
+[2018.09.05-01.57.58:145][529]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.57.58:149][529]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall -0.665
+[2018.09.05-01.57.58:153][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.02:838][ 15]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-01.58.10:771][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.58.10:856][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.10:907][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.12:366][955]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.58.12:389][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.12:389][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.58.12:389][955]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:58:12)
+[2018.09.05-01.58.12:389][955]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.58.12:397][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008048s)
+[2018.09.05-01.58.12:398][955]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.58.12:398][955]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.09.05-01.58.12:398][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.008880s)
+[2018.09.05-01.58.12:440][955]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.58.12:452][955]LogInit: FAudioDevice initialized.
+[2018.09.05-01.58.12:493][955]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.58.12:493][955]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.58.12:497][955]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.58.12
+[2018.09.05-01.58.12:497][955]LogWorld: Bringing up level for play took: 0.003862
+[2018.09.05-01.58.12:498][955]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.58.12:501][955]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall -0.313
+[2018.09.05-01.58.12:506][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.17:391][374]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-01.58.25:386][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.58.25:484][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.25:526][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.42:600][995]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-01.58.42:632][995]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af6298fd00, Size=368
+[2018.09.05-01.58.42:632][995]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af536d2080, Size=368, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_106:ExecuteUbergraph_HeartBall
+[2018.09.05-01.58.42:636][995]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af5e608880, Size=368, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.58.43:430][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.58.43:455][ 56]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af536d2080, Size=368
+[2018.09.05-01.58.43:478][ 56]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af5e608880, Size=368
+[2018.09.05-01.58.43:478][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af0c96e380, Size=368, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_110:ExecuteUbergraph_HeartBall
+[2018.09.05-01.58.43:482][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af00c76e00, Size=368, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.58.43:718][ 56]LogSavePackage: Save=256.45ms
+[2018.09.05-01.58.43:718][ 56]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBallB8CB5B6C4D074BAE89A0E0B28E181FE3.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.58.43:723][ 56]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.58.43:781][ 56]LogFileHelpers: Saving map 'HeartBall' took 0.403
+[2018.09.05-01.58.45:113][184]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.58.45:137][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.45:138][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.58.45:138][184]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:58:45)
+[2018.09.05-01.58.45:138][184]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.58.45:155][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016396s)
+[2018.09.05-01.58.45:155][184]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.58.45:155][184]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2018.09.05-01.58.45:156][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.017557s)
+[2018.09.05-01.58.45:181][184]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af0c96e380, Size=368
+[2018.09.05-01.58.45:192][184]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.58.45:206][184]LogInit: FAudioDevice initialized.
+[2018.09.05-01.58.45:251][184]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.58.45:251][184]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.58.45:256][184]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.58.45
+[2018.09.05-01.58.45:257][184]LogWorld: Bringing up level for play took: 0.005010
+[2018.09.05-01.58.45:258][184]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.58.45:263][184]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.449
+[2018.09.05-01.58.45:267][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.58.51:719][756]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-01.58.57:286][291]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+	HeartBall_C /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall:PersistentLevel.HeartBall_C_14
+	Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall:006B
+[2018.09.05-01.58.57:286][291]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1 from function: 'ExecuteUbergraph_HeartBall' from node: DestroyActor in graph: EventGraph in object: HeartBall with description: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+[2018.09.05-01.59.08:177][433]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat1)
+[2018.09.05-01.59.14:595][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.59.14:696][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.59.14:746][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.59.15:889][ 83]LogTemp: Repeating last play command: Simulate
+[2018.09.05-01.59.15:917][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.59.15:917][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-01.59.15:918][ 83]PIE: New page: SIE session: HeartBall (5 Sep 2018 21:59:15)
+[2018.09.05-01.59.15:918][ 83]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-01.59.15:925][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007426s)
+[2018.09.05-01.59.15:926][ 83]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-01.59.15:926][ 83]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2018.09.05-01.59.15:926][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.008183s)
+[2018.09.05-01.59.15:953][ 83]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-01.59.15:965][ 83]LogInit: FAudioDevice initialized.
+[2018.09.05-01.59.16:000][ 83]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-01.59.16:000][ 83]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-01.59.16:005][ 83]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-11.59.16
+[2018.09.05-01.59.16:006][ 83]LogWorld: Bringing up level for play took: 0.004915
+[2018.09.05-01.59.16:006][ 83]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-01.59.16:011][ 83]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall -0.803
+[2018.09.05-01.59.16:015][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.59.20:309][469]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-01.59.27:874][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-01.59.27:942][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.59.27:983][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-01.59.28:974][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.59.29:041][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af00c76e00, Size=368
+[2018.09.05-01.59.29:041][204]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af62296200, Size=368, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_114:ExecuteUbergraph_HeartBall
+[2018.09.05-01.59.29:046][204]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae9c49f880, Size=368, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.59.29:273][204]LogSavePackage: Save=250.69ms
+[2018.09.05-01.59.29:273][204]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBall60A2BAF04C7A8B74B0E5209F942B6463.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.59.29:276][204]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.59.29:319][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall_BuiltData" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall_BuiltData.uasset" SILENT=true
+[2018.09.05-01.59.29:515][204]LogSavePackage: Save=175.49ms
+[2018.09.05-01.59.29:515][204]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBall_BuiltData021C39EA4E6A39F4D22832BE7675726C.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall_BuiltData.uasset'
+[2018.09.05-01.59.29:520][204]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall_BuiltData.uasset
+[2018.09.05-01.59.31:379][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af62296200, Size=368
+[2018.09.05-01.59.39:736][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-01.59.39:796][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae9c49f880, Size=368
+[2018.09.05-01.59.39:796][345]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af0d0b3700, Size=368, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_118:ExecuteUbergraph_HeartBall
+[2018.09.05-01.59.39:800][345]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae98787700, Size=368, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-01.59.39:970][345]LogSavePackage: Save=192.61ms
+[2018.09.05-01.59.39:970][345]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBall20573486421AD243F48F5392B4179ADD.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-01.59.39:973][345]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-01.59.40:015][345]LogFileHelpers: Saving map 'HeartBall' took 0.321
+[2018.09.05-01.59.45:324][961]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec4b53fe0, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.32:704][530]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec4b53fe0, Size=4
+[2018.09.05-02.00.32:704][530]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec4b53fe0, Size=4, Default__SKEL_HeartBall_C Function /Engine/Transient.REINST_SKEL_HeartBall_C_122:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.32:706][530]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec4b52c88, Size=4, Default__SKEL_HeartBall_C Function /Game/_Scenes/HeartBall.SKEL_HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.56:724][340]BlueprintLog: New page: Compile HeartBall
+[2018.09.05-02.00.56:744][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec4b52c88, Size=4
+[2018.09.05-02.00.56:744][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aec4b52c88, Size=4, SKEL_HeartBall_C_0 Function /Engine/Transient.REINST_SKEL_HeartBall_C_124:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.56:754][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae98787700, Size=368
+[2018.09.05-02.00.56:754][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af6d072380, Size=368, HeartBall_C_1 Function /Engine/Transient.REINST_HeartBall_C_126:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.56:758][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af6cea6c80, Size=352, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.56:890][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec4b53fe0, Size=4
+[2018.09.05-02.00.56:890][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af0d0b3700, Size=368
+[2018.09.05-02.00.56:890][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aec4b52c88, Size=4
+[2018.09.05-02.00.57:543][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-02.00.57:571][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af6d072380, Size=368
+[2018.09.05-02.00.57:618][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af6cea6c80, Size=352
+[2018.09.05-02.00.57:618][395]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af530f5c00, Size=352, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_130:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.57:622][395]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af6299b880, Size=352, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-02.00.57:863][395]LogSavePackage: Save=266.68ms
+[2018.09.05-02.00.57:863][395]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBallA6B7EDA04F50A80520F28DB60BA39F7F.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-02.00.57:866][395]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-02.00.57:909][395]LogFileHelpers: Saving map 'HeartBall' took 0.407
+[2018.09.05-02.01.04:573][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-02.01.04:600][158]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af530f5c00, Size=352
+[2018.09.05-02.01.04:623][158]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af6299b880, Size=352
+[2018.09.05-02.01.04:623][158]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af62cd9180, Size=352, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_134:ExecuteUbergraph_HeartBall
+[2018.09.05-02.01.04:626][158]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af4cac2380, Size=352, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-02.01.04:800][158]LogSavePackage: Save=193.39ms
+[2018.09.05-02.01.04:800][158]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBall987D12C5404D28A642F5868D67787E89.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-02.01.04:803][158]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-02.01.04:843][158]LogFileHelpers: Saving map 'HeartBall' took 0.308
+[2018.09.05-02.01.06:387][330]LogTemp: Repeating last play command: Simulate
+[2018.09.05-02.01.06:411][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.01.06:411][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-02.01.06:411][330]PIE: New page: SIE session: HeartBall (5 Sep 2018 22:01:06)
+[2018.09.05-02.01.06:411][330]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-02.01.06:419][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007576s)
+[2018.09.05-02.01.06:419][330]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-02.01.06:419][330]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.09.05-02.01.06:419][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.008334s)
+[2018.09.05-02.01.06:445][330]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af62cd9180, Size=352
+[2018.09.05-02.01.06:453][330]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-02.01.06:466][330]LogInit: FAudioDevice initialized.
+[2018.09.05-02.01.06:505][330]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-02.01.06:505][330]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-02.01.06:509][330]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-12.01.06
+[2018.09.05-02.01.06:510][330]LogWorld: Bringing up level for play took: 0.003492
+[2018.09.05-02.01.06:510][330]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-02.01.06:514][330]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall -0.3
+[2018.09.05-02.01.06:517][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.01.13:887][ 94]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-02.01.18:479][539]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+	HeartBall_C /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall:PersistentLevel.HeartBall_C_19
+	Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall:0962
+[2018.09.05-02.01.18:479][539]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1 from function: 'ExecuteUbergraph_HeartBall' from node: DestroyActor in graph: EventGraph in object: HeartBall with description: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+[2018.09.05-02.01.26:385][321]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat1)
+[2018.09.05-02.01.29:147][540]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+	HeartBall_C /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall:PersistentLevel.HeartBall_C_19
+	Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall:0962
+[2018.09.05-02.01.29:147][540]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1 from function: 'ExecuteUbergraph_HeartBall' from node: DestroyActor in graph: EventGraph in object: HeartBall with description: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+[2018.09.05-02.01.34:667][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-02.01.34:745][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.01.34:793][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.01.39:563][661]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_RespawnBat)
+[2018.09.05-02.01.49:374][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-02.01.49:440][760]LogTemp: Repeating last play command: Simulate
+[2018.09.05-02.01.49:464][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.01.49:464][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-02.01.49:464][760]PIE: New page: SIE session: HeartBall (5 Sep 2018 22:01:49)
+[2018.09.05-02.01.49:464][760]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-02.01.49:472][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007793s)
+[2018.09.05-02.01.49:473][760]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-02.01.49:473][760]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.09.05-02.01.49:473][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.008566s)
+[2018.09.05-02.01.49:511][760]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-02.01.49:524][760]LogInit: FAudioDevice initialized.
+[2018.09.05-02.01.49:565][760]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-02.01.49:565][760]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-02.01.49:570][760]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-12.01.49
+[2018.09.05-02.01.49:571][760]LogWorld: Bringing up level for play took: 0.004933
+[2018.09.05-02.01.49:572][760]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-02.01.49:575][760]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall 0.761
+[2018.09.05-02.01.49:579][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.01.54:482][244]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-02.02.01:263][946]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+	HeartBall_C /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall:PersistentLevel.HeartBall_C_19
+	Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall:0962
+[2018.09.05-02.02.01:264][946]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1 from function: 'ExecuteUbergraph_HeartBall' from node: DestroyActor in graph: EventGraph in object: HeartBall with description: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+[2018.09.05-02.02.05:958][452]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat1)
+[2018.09.05-02.02.12:685][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-02.02.12:798][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.12:838][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.14:022][194]LogTemp: Repeating last play command: Simulate
+[2018.09.05-02.02.14:046][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.14:047][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-02.02.14:047][194]PIE: New page: SIE session: HeartBall (5 Sep 2018 22:02:14)
+[2018.09.05-02.02.14:047][194]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-02.02.14:055][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007794s)
+[2018.09.05-02.02.14:055][194]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-02.02.14:055][194]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2018.09.05-02.02.14:055][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.008536s)
+[2018.09.05-02.02.14:088][194]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-02.02.14:101][194]LogInit: FAudioDevice initialized.
+[2018.09.05-02.02.14:143][194]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-02.02.14:143][194]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-02.02.14:147][194]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-12.02.14
+[2018.09.05-02.02.14:147][194]LogWorld: Bringing up level for play took: 0.003775
+[2018.09.05-02.02.14:148][194]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-02.02.14:152][194]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall -0.662
+[2018.09.05-02.02.14:155][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.18:599][572]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-02.02.25:787][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-02.02.25:881][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.25:921][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.29:513][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/HeartBall" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-02.02.29:570][673]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af4cac2380, Size=352
+[2018.09.05-02.02.29:570][673]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af4c7d5480, Size=352, Default__HeartBall_C Function /Engine/Transient.REINST_HeartBall_C_138:ExecuteUbergraph_HeartBall
+[2018.09.05-02.02.29:576][673]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ae9c447880, Size=352, Default__HeartBall_C Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall
+[2018.09.05-02.02.29:774][673]LogSavePackage: Save=223.86ms
+[2018.09.05-02.02.29:774][673]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/HeartBallF4A2598346E7BA18EE97488A4F05C2AC.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap'
+[2018.09.05-02.02.29:777][673]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/HeartBall.umap
+[2018.09.05-02.02.29:823][673]LogFileHelpers: Saving map 'HeartBall' took 0.355
+[2018.09.05-02.02.33:356][ 70]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af4c7d5480, Size=352
+[2018.09.05-02.02.44:116][325]LogTemp: Repeating last play command: Simulate
+[2018.09.05-02.02.44:142][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.44:142][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-02.02.44:142][325]PIE: New page: SIE session: HeartBall (5 Sep 2018 22:02:44)
+[2018.09.05-02.02.44:142][325]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_HeartBall
+[2018.09.05-02.02.44:150][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007992s)
+[2018.09.05-02.02.44:153][325]LogAIModule: Creating AISystem for world HeartBall
+[2018.09.05-02.02.44:153][325]LogPlayLevel: PIE: World Init took: (0.003064s)
+[2018.09.05-02.02.44:153][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/HeartBall.HeartBall to /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall (0.011213s)
+[2018.09.05-02.02.44:188][325]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-02.02.44:200][325]LogInit: FAudioDevice initialized.
+[2018.09.05-02.02.44:236][325]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.05-02.02.44:237][325]LogLoad: Game class is 'GameModeBase'
+[2018.09.05-02.02.44:240][325]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall up for play (max tick rate 0) at 2018.09.05-12.02.44
+[2018.09.05-02.02.44:241][325]LogWorld: Bringing up level for play took: 0.003692
+[2018.09.05-02.02.44:242][325]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.05-02.02.44:245][325]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_HeartBall -0.569
+[2018.09.05-02.02.44:249][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.02.48:907][724]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat)
+[2018.09.05-02.02.55:686][312]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat1)
+[2018.09.05-02.03.00:897][737]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+	HeartBall_C /Game/_Scenes/UEDPIE_0_HeartBall.HeartBall:PersistentLevel.HeartBall_C_20
+	Function /Game/_Scenes/HeartBall.HeartBall_C:ExecuteUbergraph_HeartBall:0962
+[2018.09.05-02.03.00:897][737]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1 from function: 'ExecuteUbergraph_HeartBall' from node: DestroyActor in graph: EventGraph in object: HeartBall with description: Accessed None trying to read property K2Node_DynamicCast_AsBP_Bat1
+[2018.09.05-02.03.06:181][280]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat2)
+[2018.09.05-02.03.13:354][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Bat_C (BP_Bat3)
+[2018.09.05-02.03.20:182][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-02.03.20:284][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.03.20:322][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall' with GeneratedClass '/Game/_Scenes/HeartBall.HeartBall_C' with ClassGeneratedBy '/Game/_Scenes/HeartBall.HeartBall:PersistentLevel.HeartBall'
+[2018.09.05-02.03.25:822][287]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.09.05-02.03.25:953][287]LogSlate: Window 'CIU_CarnEvil_Final - Unreal Editor' being destroyed
+[2018.09.05-02.03.25:956][287]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-02.03.26:232][288]Cmd: QUIT_EDITOR
+[2018.09.05-02.03.26:676][288]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.05-02.03.26:676][288]LogExit: Preparing to exit.
+[2018.09.05-02.03.27:613][288]LogExit: Editor shut down
+[2018.09.05-02.03.27:617][288]LogExit: Transaction tracking system shut down
+[2018.09.05-02.03.27:618][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae93b17d30, Size=24
+[2018.09.05-02.03.27:623][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae87c51000, Size=968
+[2018.09.05-02.03.27:624][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed75a7c00, Size=32
+[2018.09.05-02.03.27:624][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aed75a6d80, Size=32
+[2018.09.05-02.03.27:624][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae9c447880, Size=352
+[2018.09.05-02.03.27:624][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ae87298100, Size=752
+[2018.09.05-02.03.27:633][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af43bad240, Size=4
+[2018.09.05-02.03.27:633][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af43bad238, Size=4
+[2018.09.05-02.03.27:781][288]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.05-02.03.27:781][288]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/' was aborted.
+[2018.09.05-02.03.27:781][288]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.09.05-02.03.27:781][288]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.09.05-02.03.27:782][288]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.09.05-02.03.27:782][288]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.09.05-02.03.27:782][288]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.05-02.03.27:782][288]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.09.05-02.03.27:925][288]LogExit: Object subsystem successfully closed.
+[2018.09.05-02.03.28:009][288]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.05-02.03.28:017][288]LogD3D11RHI: Shutdown
+[2018.09.05-02.03.28:017][288]LogD3D11RHI: CleanupD3DDevice
+[2018.09.05-02.03.28:024][288]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.05-02.03.28:037][288]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.09.05-02.03.28:037][288]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.09.05-02.03.28:037][288]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.09.05-02.03.28:037][288]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.09.05-02.03.28:037][288]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.09.05-02.03.28:037][288]LogDirectoryWatcher: A directory notification for 'D:/Game Engines/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.09.05-02.03.28:037][288]LogDirectoryWatcher: A directory notification for 'D:/Game Engines/Epic Games/UE_4.19/Enterprise/FeaturePacks/' was aborted.
+[2018.09.05-02.03.28:038][288]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.09.05-02.03.28:038][288]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.09.05-02.03.28:038][288]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.09.05-02.03.28:038][288]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Collections/' was aborted.
+[2018.09.05-02.03.28:038][288]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Developers/Matt/Collections/' was aborted.
+[2018.09.05-02.03.28:038][288]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Collections/' was aborted.
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.09.05-02.03.28:039][288]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.09.05-02.03.28:040][288]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.09.05-02.03.28:123][288]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.09.05-02.03.28:124][288]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.09.05-02.03.28:190][288]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.09.05-02.03.28:190][288]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.09.05-02.03.28:190][288]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.09.05-02.03.28:190][288]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.09.05-02.03.28:190][288]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.09.05-02.03.28:191][288]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.09.05-02.03.28:191][288]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.09.05-02.03.28:191][288]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.09.05-02.03.28:191][288]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.09.05-02.03.28:191][288]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.09.05-02.03.28:205][288]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.09.05-02.03.28:205][288]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.09.05-02.03.28:207][288]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.09.05-02.03.28:208][288]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.09.05-02.03.28:208][288]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.09.05-02.03.28:208][288]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.09.05-02.03.28:208][288]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.09.05-02.03.28:208][288]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.09.05-02.03.28:212][288]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.09.05-02.03.28:221][288]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.09.05-02.03.28:222][288]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.09.05-02.03.28:323][288]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.09.05-02.03.28:424][288]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.09.05-02.03.28:424][288]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.09.05-02.03.28:424][288]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.09.05-02.03.28:424][288]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.09.05-02.03.28:424][288]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.09.05-02.03.28:424][288]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.09.05-02.03.28:425][288]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.09.05-02.03.28:425][288]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.09.05-02.03.28:425][288]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.09.05-02.03.28:426][288]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.09.05-02.03.28:426][288]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.09.05-02.03.28:427][288]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.09.05-02.03.28:427][288]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.09.05-02.03.28:427][288]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.09.05-02.03.28:427][288]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.09.05-02.03.29:306][288]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.09.05-02.03.29:306][288]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.09.05-02.03.29:306][288]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.09.05-02.03.29:309][288]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.09.05-02.03.29:315][288]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.09.05-02.03.29:316][288]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.09.05-02.03.29:317][288]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.09.05-02.03.29:317][288]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.09.05-02.03.29:317][288]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.09.05-02.03.29:317][288]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.09.05-02.03.29:321][288]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.09.05-02.03.29:322][288]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.09.05-02.03.29:323][288]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.09.05-02.03.29:362][288]LogDerivedDataCache: Shutdown
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.09.05-02.03.29:362][288]LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.09.05-02.03.29:362][288]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.09.05-02.03.29:363][288]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.05-02.03.29:364][288]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.05-02.03.29:365][288]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.05-02.03.29:365][288]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.05-02.03.29:365][288]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B620747CA-402B-218A-24E5-83B6A083414B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=8670ddc143f166d963b47d878f9a65f4%7C60970d98e3a64dd2a97c27b60aa77d2a%7Cbc5c8457-a208-415d-8abb-8bae24e0202f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.05-02.03.29:387][288]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.05-02.03.29:392][288]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.05-02.03.29:392][288]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.05-02.03.29:392][288]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.05-02.03.29:392][288]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.05-02.03.29:393][288]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.05-02.03.29:393][288]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.05-02.03.29:393][288]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.05-02.03.29:394][288]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.05-02.03.29:395][288]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.05-02.03.29:434][288]LogExit: Exiting.
+[2018.09.05-02.03.29:468][288]Log file closed, 09/05/18 12:03:29
