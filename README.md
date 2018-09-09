@@ -18,14 +18,6 @@ Made by Joakim Mellergård.
 Albedo texture by http://dianaberg.se/
 
 
-FBX Models - 
-
-
-Sprites - 
-
-
-Audio - 
-
 
 Textures / Materials
 
@@ -38,3 +30,12 @@ PostDateIcon March 22nd, 2014
 
 http://www.leonarddavid.com/2014/03/
 
+
+
+FBX Models - 
+
+
+Sprites - 
+
+
+Audio - 
