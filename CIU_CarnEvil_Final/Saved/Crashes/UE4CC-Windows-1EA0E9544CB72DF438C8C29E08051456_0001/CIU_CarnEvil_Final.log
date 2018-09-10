@@ -1,0 +1,887 @@
+﻿Log file open, 09/10/18 15:19:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CIU_CarnEvil_Final
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(787395340) SRandInit(787395340).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.695317
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.656s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-QTNQBAN (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Game Engines/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.10-05.19.11:997][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-05.19.11:997][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.10-05.19.12:021][  0]LogInit: Computer: DESKTOP-QTNQBAN
+[2018.09.10-05.19.12:021][  0]LogInit: User: Matt
+[2018.09.10-05.19.12:021][  0]LogInit: CPU Page size=4096, Cores=10
+[2018.09.10-05.19.12:021][  0]LogInit: High frequency timer resolution =3.234378 MHz
+[2018.09.10-05.19.12:022][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.09.10-05.19.12:022][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.10-05.19.12:022][  0]LogMemory: Process Physical Memory: 277.01 MB used, 277.01 MB peak
+[2018.09.10-05.19.12:022][  0]LogMemory: Process Virtual Memory: 275.23 MB used, 275.23 MB peak
+[2018.09.10-05.19.12:022][  0]LogMemory: Physical Memory: 12725.16 MB used,  19721.20 MB free, 32446.36 MB total
+[2018.09.10-05.19.12:022][  0]LogMemory: Virtual Memory: 4845.62 MB used,  19721.20 MB free, 134217728.00 MB total
+[2018.09.10-05.19.12:053][  0]LogInit: Using OS detected language (en-GB).
+[2018.09.10-05.19.12:053][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.10-05.19.12:056][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.09.10-05.19.12:466][  0]LogStreaming: Display: Took  0.412s to EndInitTextLocalization.
+[2018.09.10-05.19.12:466][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.10-05.19.12:494][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.10-05.19.12:494][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.10-05.19.12:642][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.10-05.19.12:725][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.09.10-05.19.12:725][  0]LogD3D11RHI:       11127/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.10-05.19.12:728][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.10-05.19.12:728][  0]LogD3D11RHI:       0/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.10-05.19.12:728][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.10-05.19.12:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.10-05.19.12:741][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.10-05.19.12:741][  0]LogWindows: EnumDisplayDevices:
+[2018.09.10-05.19.12:741][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.09.10-05.19.12:742][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.10-05.19.12:742][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.10-05.19.12:742][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.10-05.19.12:742][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.10-05.19.12:742][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.09.10-05.19.12:742][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.10-05.19.12:742][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.10-05.19.12:742][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.09.10-05.19.12:817][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.10-05.19.12:817][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.10-05.19.12:817][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.10-05.19.12:879][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.10-05.19.12:882][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Intermediate/Shaders/WorkingDirectory/16572/).
+[2018.09.10-05.19.12:883][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/C80C564A40FD19D415CBF3BB961774DF/'.
+[2018.09.10-05.19.13:139][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.10-05.19.13:149][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.10-05.19.13:160][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.10-05.19.13:170][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.10-05.19.13:181][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.10-05.19.13:192][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.10-05.19.13:203][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.10-05.19.13:215][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.10-05.19.13:220][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.10-05.19.13:231][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.10-05.19.13:241][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.10-05.19.13:251][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.10-05.19.13:261][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.10-05.19.13:270][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.10-05.19.13:280][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.10-05.19.13:300][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.10-05.19.13:300][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.10-05.19.13:310][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-05.19.13:311][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.10-05.19.13:345][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-05.19.13:357][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-05.19.13:369][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.10-05.19.13:381][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.10-05.19.13:394][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.10-05.19.13:408][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.10-05.19.13:408][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.10-05.19.13:486][  0]LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.10-05.19.13:486][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.10-05.19.13:486][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.10-05.19.13:486][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.10-05.19.14:110][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.10-05.19.14:173][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.10-05.19.14:174][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.10-05.19.14:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.10-05.19.14:174][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.10-05.19.14:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.10-05.19.14:174][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.10-05.19.14:186][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.10-05.19.14:199][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.10-05.19.14:199][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.10-05.19.14:199][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.10-05.19.14:209][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.10-05.19.14:209][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.10-05.19.14:210][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.10-05.19.14:210][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.10-05.19.14:310][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.09.10-05.19.14:641][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-05.19.14:762][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.10-05.19.14:764][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.10-05.19.14:764][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.10-05.19.14:764][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.10-05.19.14:764][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.10-05.19.14:764][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.10-05.19.14:787][  0]LogNetVersion: CIU_CarnEvil_Final , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2718905845)
+[2018.09.10-05.19.15:352][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.114596 seconds
+[2018.09.10-05.19.15:357][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.10-05.19.15:357][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.09.10-05.19.15:357][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.10-05.19.16:870][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.10-05.19.16:894][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.10-05.19.17:129][  0]SourceControl: Source control is disabled
+[2018.09.10-05.19.17:129][  0]SourceControl: Source control is disabled
+[2018.09.10-05.19.17:138][  0]SourceControl: Source control is disabled
+[2018.09.10-05.19.17:147][  0]SourceControl: Source control is disabled
+[2018.09.10-05.19.17:502][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.10-05.19.17:689][  0]LogOcInput: OculusInput pre-init called
+[2018.09.10-05.19.17:765][  0]LogEngine: Initializing Engine...
+[2018.09.10-05.19.18:393][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2018.09.10-05.19.18:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-05.19.18:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-05.19.18:601][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.10-05.19.18:642][  0]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.19.18:655][  0]LogInit: FAudioDevice initialized.
+[2018.09.10-05.19.18:741][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.10-05.19.18:772][  0]LogInit: Texture streaming: Enabled
+[2018.09.10-05.19.18:784][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.10-05.19.18:804][  0]LogInit: Transaction tracking system initialized
+[2018.09.10-05.19.18:819][  0]BlueprintLog: New page: Editor Load
+[2018.09.10-05.19.18:883][  0]LocalizationService: Localization service is disabled
+[2018.09.10-05.19.18:973][  0]LogConsoleResponse: Display: 
+[2018.09.10-05.19.19:091][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.10-05.19.19:091][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.10-05.19.19:091][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.10-05.19.19:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-05.19.19:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-05.19.19:334][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/' took 0.05s
+[2018.09.10-05.19.19:334][  0]SourceControl: Source control is disabled
+[2018.09.10-05.19.19:335][  0]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-05.19.19:335][  0]LightingResults: New page: Lighting Build
+[2018.09.10-05.19.19:337][  0]MapCheck: New page: Map Check
+[2018.09.10-05.19.19:337][  0]LightingResults: New page: Lighting Build
+[2018.09.10-05.19.19:375][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021182b22e00, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.10-05.19.19:378][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021182b22e00, Size=24
+[2018.09.10-05.19.19:378][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021182b22e00, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_0:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.10-05.19.19:381][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021182b21f90, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.10-05.19.19:430][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002119ebe3c00, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.19.19:452][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002119ebe3c00, Size=968
+[2018.09.10-05.19.19:453][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211834eb000, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_6:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.19.19:473][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211834ea400, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.19.19:481][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211832eab00, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.10-05.19.19:491][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211832eab00, Size=752
+[2018.09.10-05.19.19:491][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002118333e200, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_8:ExecuteUbergraph_MotionControllerPawn
+[2018.09.10-05.19.19:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002118333c400, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.10-05.19.19:505][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021182b2c720, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.19.19:507][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021182b2c720, Size=56
+[2018.09.10-05.19.19:507][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021182b2c720, Size=56, Default__BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_10:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.19.19:508][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021182b2cd08, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.19.19:578][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211835144d8, Size=24, Default__BP_Button_C Function /Game/Blueprints/_GeneralUse/BP_Button.BP_Button_C:ExecuteUbergraph_BP_Button
+[2018.09.10-05.19.19:579][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211835144d8, Size=24
+[2018.09.10-05.19.19:579][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211835144d8, Size=24, Default__BP_Button_C Function /Engine/Transient.REINST_BP_Button_C_14:ExecuteUbergraph_BP_Button
+[2018.09.10-05.19.19:580][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021183514370, Size=24, Default__BP_Button_C Function /Game/Blueprints/_GeneralUse/BP_Button.BP_Button_C:ExecuteUbergraph_BP_Button
+[2018.09.10-05.19.19:838][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.509409ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.09.10-05.19.20:354][  0]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.19.20:365][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-05.19.20:382][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021182b22e00, Size=24
+[2018.09.10-05.19.20:382][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211834eb000, Size=968
+[2018.09.10-05.19.20:382][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002118333e200, Size=752
+[2018.09.10-05.19.20:383][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211835144d8, Size=24
+[2018.09.10-05.19.20:602][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021182b2c720, Size=56
+[2018.09.10-05.19.20:603][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-05.19.20:638][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.196ms to complete.
+[2018.09.10-05.19.20:638][  0]LogFileHelpers: Loading map 'IntroScene' took 1.303
+[2018.09.10-05.19.20:767][  0]LogCollectionManager: Loaded 0 collections in 0.000814 seconds
+[2018.09.10-05.19.20:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Collections/' took 0.01s
+[2018.09.10-05.19.20:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Developers/Matt/Collections/' took 0.01s
+[2018.09.10-05.19.20:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Collections/' took 0.01s
+[2018.09.10-05.19.20:816][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.10-05.19.20:831][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 2452 classes and 558 folders.
+[2018.09.10-05.19.20:839][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-05.19.20:871][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-05.19.20:875][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.10-05.19.20:988][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.10-05.19.20:988][  0]LogLoad: (Engine Initialization) Total time: 11.65 seconds
+[2018.09.10-05.19.20:988][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.10-05.19.21:373][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.10-05.19.21:375][  0]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.10-05.19.21:377][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.10-05.19.21:381][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.10-05.19.21:498][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-05.19.21:663][  1]LogRenderer: Reallocating scene render targets to support 1048x508 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-05.19.22:368][  3]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-05.19.22:680][  4]LogAssetRegistry: Asset discovery search completed in 8.3938 seconds
+[2018.09.10-05.19.22:686][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.10-05.19.22:686][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2018.09.10-05.19.26:356][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.19.26:454][ 27]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.19.26:479][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.19.26:479][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.19.26:480][ 27]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:19:26)
+[2018.09.10-05.19.26:480][ 27]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.19.26:486][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005912s)
+[2018.09.10-05.19.26:486][ 27]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.19.26:487][ 27]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.09.10-05.19.26:487][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.006695s)
+[2018.09.10-05.19.26:507][ 27]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.19.26:516][ 27]LogInit: FAudioDevice initialized.
+[2018.09.10-05.19.26:633][ 27]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.19.26:633][ 27]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.19.26:641][ 27]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.19.26
+[2018.09.10-05.19.26:642][ 27]LogWorld: Bringing up level for play took: 0.005547
+[2018.09.10-05.19.26:646][ 27]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.09.10-05.19.26:657][ 27]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 0.621
+[2018.09.10-05.19.26:658][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.19.26:732][ 28]LogRenderer: Reallocating scene render targets to support 4512x2256 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-05.19.52:646][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.19.52:906][252]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.19.52:942][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.19.58:201][826]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.10-05.19.58:432][826]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211bb2fc290, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.10-05.19.58:433][826]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211bb2fc288, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.10-05.19.59:027][826]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.10-05.19.59:207][827]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.10-05.20.22:667][270]LogSlate: Window 'BP_MotionController' being destroyed
+[2018.09.10-05.21.18:803][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.21.32:026][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.09.10-05.21.33:815][348]LogEditorViewport: Clicking on Actor (LMB): BP_TriggerBox_Button1_C (BP_TriggerBox_Button1)
+[2018.09.10-05.21.38:463][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.22.02:402][532]LogSavePackage: Save=147.95ms
+[2018.09.10-05.22.02:403][532]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/IntroScene1FA2C79E4A09CCA75B514BB558DFF669.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene.umap'
+[2018.09.10-05.22.02:413][532]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene.umap
+[2018.09.10-05.22.02:464][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/IntroScene_BuiltData" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene_BuiltData.uasset" SILENT=true
+[2018.09.10-05.22.02:615][532]LogSavePackage: Save=128.14ms
+[2018.09.10-05.22.02:615][532]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/IntroScene_BuiltData01C82E3A4FC687B21C58B3912AC5BE95.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene_BuiltData.uasset'
+[2018.09.10-05.22.02:618][532]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene_BuiltData.uasset
+[2018.09.10-05.22.04:206][718]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.22.04:235][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.22.04:235][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.22.04:235][718]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:22:04)
+[2018.09.10-05.22.04:235][718]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.22.04:242][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006307s)
+[2018.09.10-05.22.04:242][718]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.22.04:242][718]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.09.10-05.22.04:242][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.007114s)
+[2018.09.10-05.22.04:283][718]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.22.04:293][718]LogInit: FAudioDevice initialized.
+[2018.09.10-05.22.04:386][718]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.22.04:386][718]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.22.04:394][718]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.22.04
+[2018.09.10-05.22.04:395][718]LogWorld: Bringing up level for play took: 0.006829
+[2018.09.10-05.22.04:409][718]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 0.373
+[2018.09.10-05.22.04:410][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.22.25:119][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.22.25:374][556]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.22.25:420][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.22.31:518][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.22.44:311][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.22.51:681][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.22.51:781][520]BlueprintLog: New page: Compile BP_MotionController
+[2018.09.10-05.22.51:893][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211834ea400, Size=968
+[2018.09.10-05.22.51:893][520]LogUObjectGlobals: Created PersistentFrame Addr=0x000002119ebe3c00, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_38:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.22.51:913][520]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211834ea000, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.22.52:900][577]LogSavePackage: Save=159.62ms
+[2018.09.10-05.22.52:900][577]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_MotionController5B215FD8486AD2B599163595A78ADBA9.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.09.10-05.22.52:903][577]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.09.10-05.23.03:102][775]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.23.03:131][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.23.03:131][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.23.03:131][775]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:23:03)
+[2018.09.10-05.23.03:131][775]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.23.03:138][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006477s)
+[2018.09.10-05.23.03:138][775]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.23.03:139][775]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2018.09.10-05.23.03:139][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.007264s)
+[2018.09.10-05.23.03:166][775]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002119ebe3c00, Size=968
+[2018.09.10-05.23.03:174][775]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.23.03:182][775]LogInit: FAudioDevice initialized.
+[2018.09.10-05.23.03:280][775]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.23.03:280][775]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.23.03:286][775]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.23.03
+[2018.09.10-05.23.03:286][775]LogWorld: Bringing up level for play took: 0.005634
+[2018.09.10-05.23.03:300][775]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene -0.736
+[2018.09.10-05.23.03:301][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.23.11:961][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.23.12:204][524]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.23.12:241][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.23.18:255][226]BlueprintLog: New page: Compile BP_MotionController
+[2018.09.10-05.23.18:360][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211834ea000, Size=968
+[2018.09.10-05.23.18:360][226]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211a8fd9c00, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_46:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.23.18:380][226]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211834eac00, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.23.19:361][277]LogSavePackage: Save=164.02ms
+[2018.09.10-05.23.19:361][277]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_MotionController200E0BB046B204EBBDBBE0A5D205C66E.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.09.10-05.23.19:364][277]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.09.10-05.23.20:829][450]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.23.20:859][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.23.20:860][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.23.20:860][450]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:23:20)
+[2018.09.10-05.23.20:860][450]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.23.20:866][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005995s)
+[2018.09.10-05.23.20:866][450]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.23.20:867][450]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2018.09.10-05.23.20:867][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.006822s)
+[2018.09.10-05.23.20:893][450]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211a8fd9c00, Size=968
+[2018.09.10-05.23.20:903][450]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.23.20:935][450]LogInit: FAudioDevice initialized.
+[2018.09.10-05.23.21:047][450]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.23.21:047][450]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.23.21:053][450]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.23.21
+[2018.09.10-05.23.21:053][450]LogWorld: Bringing up level for play took: 0.005297
+[2018.09.10-05.23.21:066][450]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 1.029
+[2018.09.10-05.23.21:067][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.23.48:694][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.23.48:943][884]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.23.48:982][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.24.19:480][441]LogSavePackage: Save=218.00ms
+[2018.09.10-05.24.19:480][441]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_MotionController7A65FB0C44FCB17FBA45418641FB00C7.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.09.10-05.24.19:483][441]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.09.10-05.24.42:932][108]BlueprintLog: New page: Compile BP_TriggerBox_Button1
+[2018.09.10-05.24.42:938][108]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021182b2cd08, Size=56
+[2018.09.10-05.24.42:938][108]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021226a27fc8, Size=56, Default__BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_50:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.24.42:940][108]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021226a27a50, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.24.43:688][156]LogSavePackage: Save=17.97ms
+[2018.09.10-05.24.43:688][156]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_TriggerBox_Button16186301842693FE6FA269190056C37C5.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset'
+[2018.09.10-05.24.43:690][156]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset
+[2018.09.10-05.25.25:431][ 46]BlueprintLog: New page: Compile BP_TriggerBox_Button1
+[2018.09.10-05.25.25:437][ 46]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021226a27a50, Size=56
+[2018.09.10-05.25.25:437][ 46]LogUObjectGlobals: Created PersistentFrame Addr=0x000002121d8ae860, Size=56, BP_TriggerBox_Button1_C_1 Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_54:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.25.25:439][ 46]LogUObjectGlobals: Created PersistentFrame Addr=0x000002121d8afa88, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.25.26:140][ 90]LogSavePackage: Save=21.37ms
+[2018.09.10-05.25.26:140][ 90]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_TriggerBox_Button1D43B01864F72249CDA6A1ABA9865C8E2.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset'
+[2018.09.10-05.25.26:143][ 90]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset
+[2018.09.10-05.25.35:942][238]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.25.35:974][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.25.35:975][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.25.35:975][238]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:25:35)
+[2018.09.10-05.25.35:975][238]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.25.35:980][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005675s)
+[2018.09.10-05.25.35:980][238]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.25.35:981][238]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.09.10-05.25.35:981][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.006496s)
+[2018.09.10-05.25.36:005][238]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002121d8ae860, Size=56
+[2018.09.10-05.25.36:012][238]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.25.36:020][238]LogInit: FAudioDevice initialized.
+[2018.09.10-05.25.36:119][238]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.25.36:119][238]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.25.36:125][238]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.25.36
+[2018.09.10-05.25.36:125][238]LogWorld: Bringing up level for play took: 0.005121
+[2018.09.10-05.25.36:139][238]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 0.102
+[2018.09.10-05.25.36:139][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.25.51:668][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.25.51:940][578]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.25.51:984][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.26.11:389][790]BlueprintLog: New page: Compile BP_TriggerBox_Button1
+[2018.09.10-05.26.11:395][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002121d8afa88, Size=56
+[2018.09.10-05.26.11:395][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000002121bfd5360, Size=56, BP_TriggerBox_Button1_C_2 Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_58:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.26.11:396][790]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021226a252b8, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.26.12:048][831]LogSavePackage: Save=19.82ms
+[2018.09.10-05.26.12:048][831]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_TriggerBox_Button1433A94D4475AF71274980E9B7AC786F3.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset'
+[2018.09.10-05.26.12:051][831]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset
+[2018.09.10-05.26.14:993][181]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.26.15:022][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.26.15:022][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.26.15:022][181]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:26:15)
+[2018.09.10-05.26.15:022][181]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.26.15:028][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005728s)
+[2018.09.10-05.26.15:028][181]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.26.15:029][181]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.09.10-05.26.15:029][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.006526s)
+[2018.09.10-05.26.15:059][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002121bfd5360, Size=56
+[2018.09.10-05.26.15:070][181]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.26.15:079][181]LogInit: FAudioDevice initialized.
+[2018.09.10-05.26.15:178][181]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.26.15:178][181]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.26.15:183][181]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.26.15
+[2018.09.10-05.26.15:184][181]LogWorld: Bringing up level for play took: 0.005421
+[2018.09.10-05.26.15:198][181]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 1.162
+[2018.09.10-05.26.15:199][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.26.48:946][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.26.49:201][174]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.26.49:247][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.27.04:629][825]BlueprintLog: New page: Compile BP_Button
+[2018.09.10-05.27.04:633][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021183514370, Size=24
+[2018.09.10-05.27.04:634][825]LogUObjectGlobals: Created PersistentFrame Addr=0x000002121df8dcf0, Size=24, Default__BP_Button_C Function /Engine/Transient.REINST_BP_Button_C_62:ExecuteUbergraph_BP_Button
+[2018.09.10-05.27.04:635][825]LogUObjectGlobals: Created PersistentFrame Addr=0x000002121df8ded0, Size=24, Default__BP_Button_C Function /Game/Blueprints/_GeneralUse/BP_Button.BP_Button_C:ExecuteUbergraph_BP_Button
+[2018.09.10-05.27.05:378][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/_GeneralUse/BP_Button" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_Button.uasset" SILENT=true
+[2018.09.10-05.27.05:448][870]LogSavePackage: Save=24.27ms
+[2018.09.10-05.27.05:449][870]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_Button9369B0424A92FA70CE8963990F71914E.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_Button.uasset'
+[2018.09.10-05.27.05:452][870]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_Button.uasset
+[2018.09.10-05.27.11:016][478]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.27.11:050][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.27.11:051][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.27.11:051][478]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:27:11)
+[2018.09.10-05.27.11:051][478]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.27.11:057][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005728s)
+[2018.09.10-05.27.11:057][478]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.27.11:057][478]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.09.10-05.27.11:057][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.006484s)
+[2018.09.10-05.27.11:085][478]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002121df8dcf0, Size=24
+[2018.09.10-05.27.11:092][478]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.27.11:101][478]LogInit: FAudioDevice initialized.
+[2018.09.10-05.27.11:195][478]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.27.11:196][478]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.27.11:201][478]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.27.11
+[2018.09.10-05.27.11:202][478]LogWorld: Bringing up level for play took: 0.005329
+[2018.09.10-05.27.11:219][478]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene -0.818
+[2018.09.10-05.27.11:219][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.27.27:957][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.27.28:203][950]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.27.28:245][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.30.12:207][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.30.20:944][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cylinder" FILE="../../../Engine/Content/BasicShapes/Cylinder.uasset" SILENT=true
+[2018.09.10-05.30.21:010][908]LogSavePackage: Save=22.47ms
+[2018.09.10-05.30.21:010][908]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Cylinder374D2222408931282B0068B0A98463A2.tmp' to '../../../Engine/Content/BasicShapes/Cylinder.uasset'
+[2018.09.10-05.30.21:020][908]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/BasicShapes/Cylinder.uasset
+[2018.09.10-05.30.23:624][208]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.30.23:654][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.30.23:654][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.30.23:655][208]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:30:23)
+[2018.09.10-05.30.23:655][208]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.30.23:662][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007662s)
+[2018.09.10-05.30.23:663][208]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.30.23:663][208]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.09.10-05.30.23:663][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.008579s)
+[2018.09.10-05.30.23:704][208]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.30.23:718][208]LogInit: FAudioDevice initialized.
+[2018.09.10-05.30.23:831][208]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.30.23:832][208]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.30.23:838][208]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.30.23
+[2018.09.10-05.30.23:838][208]LogWorld: Bringing up level for play took: 0.005802
+[2018.09.10-05.30.23:853][208]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene -0.185
+[2018.09.10-05.30.23:853][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.30.40:363][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.30.40:608][661]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.30.40:657][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.30.44:971][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.30.48:047][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cylinder" FILE="../../../Engine/Content/BasicShapes/Cylinder.uasset" SILENT=true
+[2018.09.10-05.30.48:073][513]LogSavePackage: Save=8.80ms
+[2018.09.10-05.30.48:073][513]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Cylinder83EA350449A18938AEAF99AD512AA97B.tmp' to '../../../Engine/Content/BasicShapes/Cylinder.uasset'
+[2018.09.10-05.30.48:075][513]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/BasicShapes/Cylinder.uasset
+[2018.09.10-05.31.03:949][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-05.31.04:038][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cylinder" FILE="../../../Engine/Content/BasicShapes/Cylinder.uasset" SILENT=true
+[2018.09.10-05.31.04:082][336]LogSavePackage: Save=12.89ms
+[2018.09.10-05.31.04:082][336]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Cylinder47021739414598D32818F28271767C95.tmp' to '../../../Engine/Content/BasicShapes/Cylinder.uasset'
+[2018.09.10-05.31.04:086][336]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/BasicShapes/Cylinder.uasset
+[2018.09.10-05.31.18:541][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cylinder" FILE="../../../Engine/Content/BasicShapes/Cylinder.uasset" SILENT=true
+[2018.09.10-05.31.18:569][984]LogSavePackage: Save=10.98ms
+[2018.09.10-05.31.18:569][984]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Cylinder31E7428C4B54A154752358B8926B2345.tmp' to '../../../Engine/Content/BasicShapes/Cylinder.uasset'
+[2018.09.10-05.31.18:572][984]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/BasicShapes/Cylinder.uasset
+[2018.09.10-05.31.23:420][503]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.31.23:456][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.31.23:457][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-05.31.23:458][503]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:31:23)
+[2018.09.10-05.31.23:458][503]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.31.23:472][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014958s)
+[2018.09.10-05.31.23:473][503]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.31.23:473][503]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.09.10-05.31.23:473][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.016161s)
+[2018.09.10-05.31.23:515][503]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.31.23:526][503]LogInit: FAudioDevice initialized.
+[2018.09.10-05.31.23:647][503]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.31.23:647][503]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.31.23:653][503]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.31.23
+[2018.09.10-05.31.23:654][503]LogWorld: Bringing up level for play took: 0.005528
+[2018.09.10-05.31.23:668][503]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene -0.369
+[2018.09.10-05.31.23:669][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.32.08:843][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.32.09:097][541]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.32.09:141][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.33.21:338][355]BlueprintLog: New page: Compile BP_TriggerBox_Button1
+[2018.09.10-05.33.21:344][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021226a252b8, Size=56
+[2018.09.10-05.33.21:344][355]LogUObjectGlobals: Created PersistentFrame Addr=0x000002122e5283d8, Size=56, BP_TriggerBox_Button1_C_3 Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_66:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.33.21:345][355]LogBlueprint: Error: [Compiler BP_TriggerBox_Button1] COMPILER ERROR: failed building connection with 'Array of Motion Controller Pawn Object References is not compatible with Array of BP Motion Controller Object References.' at  Get (a copy)
+[2018.09.10-05.33.21:345][355]LogBlueprint: Error: [Compiler BP_TriggerBox_Button1] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2018.09.10-05.33.21:345][355]LogUObjectGlobals: Created PersistentFrame Addr=0x000002122e529440, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.33.21:569][355]LogBlueprint: Warning: [Compiler BP_TriggerBox_Button1] [0852.23] Compile of BP_TriggerBox_Button1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 231 ms] (/Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1)
+[2018.09.10-05.33.22:909][504]LogSavePackage: Save=23.49ms
+[2018.09.10-05.33.22:909][504]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_TriggerBox_Button1A7AFD8CD402613C749A01491BC46F64F.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset'
+[2018.09.10-05.33.22:912][504]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset
+[2018.09.10-05.34.27:283][369]LogEditorTransaction: Undo Delete current selection
+[2018.09.10-05.34.27:289][369]LogUObjectGlobals: Created PersistentFrame Addr=0x000002122e23c468, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.SKEL_BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.27:730][409]LogEditorTransaction: Undo Add Node
+[2018.09.10-05.34.27:731][409]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002122e23c468, Size=4
+[2018.09.10-05.34.27:731][409]LogUObjectGlobals: Created PersistentFrame Addr=0x000002125b115318, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_SKEL_BP_TriggerBox_Button1_C_70:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.27:732][409]LogUObjectGlobals: Created PersistentFrame Addr=0x000002125b1152c0, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.SKEL_BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.28:211][454]LogEditorTransaction: Undo Delete current selection
+[2018.09.10-05.34.28:211][454]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002125b1152c0, Size=4
+[2018.09.10-05.34.28:211][454]LogUObjectGlobals: Created PersistentFrame Addr=0x000002126f084618, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_SKEL_BP_TriggerBox_Button1_C_72:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.28:212][454]LogUObjectGlobals: Created PersistentFrame Addr=0x000002126f0845c0, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.SKEL_BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.28:692][499]LogEditorTransaction: Undo Add Node
+[2018.09.10-05.34.28:693][499]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002126f0845c0, Size=4
+[2018.09.10-05.34.28:693][499]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212833bc0c0, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_SKEL_BP_TriggerBox_Button1_C_74:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.28:694][499]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212833bc108, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.SKEL_BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.29:178][545]LogEditorTransaction: Undo Delete current selection
+[2018.09.10-05.34.29:179][545]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000212833bc108, Size=4
+[2018.09.10-05.34.29:179][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002128db8ebc8, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_SKEL_BP_TriggerBox_Button1_C_76:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.29:180][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002128db8eb70, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.SKEL_BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.29:720][597]LogEditorTransaction: Undo Delete current selection
+[2018.09.10-05.34.29:721][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002128db8eb70, Size=4
+[2018.09.10-05.34.29:721][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000002129f2a9d58, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_SKEL_BP_TriggerBox_Button1_C_78:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.29:722][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000002129f2a9cf0, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.SKEL_BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.30:636][691]LogEditorTransaction: Undo Change Class Pin Value
+[2018.09.10-05.34.30:637][691]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002129f2a9cf0, Size=4
+[2018.09.10-05.34.30:637][691]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212a1370700, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_SKEL_BP_TriggerBox_Button1_C_80:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.30:638][691]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212a1370698, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.SKEL_BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.31:339][762]LogEditorTransaction: Undo Create Capsule Collision
+[2018.09.10-05.34.32:086][841]LogEditorTransaction: Undo Remove Collision
+[2018.09.10-05.34.33:122][952]LogEditorTransaction: Undo Create Capsule Collision
+[2018.09.10-05.34.35:143][178]LogEditorTransaction: Undo Change Object Pin Value
+[2018.09.10-05.34.35:145][178]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212b5754268, Size=4, Default__SKEL_BP_Button_C Function /Game/Blueprints/_GeneralUse/BP_Button.SKEL_BP_Button_C:ExecuteUbergraph_BP_Button
+[2018.09.10-05.34.36:161][285]BlueprintLog: New page: Compile BP_TriggerBox_Button1
+[2018.09.10-05.34.36:164][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000212a1370698, Size=4
+[2018.09.10-05.34.36:165][285]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021255a04f50, Size=4, Default__SKEL_BP_TriggerBox_Button1_C Function /Engine/Transient.REINST_SKEL_BP_TriggerBox_Button1_C_84:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.36:167][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002122e529440, Size=56
+[2018.09.10-05.34.36:167][285]LogUObjectGlobals: Created PersistentFrame Addr=0x000002125524a390, Size=56, BP_TriggerBox_Button1_C_4 Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_86:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.36:169][285]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021255249ef8, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.36:394][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021255a04f50, Size=4
+[2018.09.10-05.34.36:394][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000212a1370700, Size=4
+[2018.09.10-05.34.36:394][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002129f2a9d58, Size=4
+[2018.09.10-05.34.36:394][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002128db8ebc8, Size=4
+[2018.09.10-05.34.36:394][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000212833bc0c0, Size=4
+[2018.09.10-05.34.36:395][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002126f084618, Size=4
+[2018.09.10-05.34.36:395][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002125b115318, Size=4
+[2018.09.10-05.34.36:395][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002122e5283d8, Size=56
+[2018.09.10-05.34.50:100][895]BlueprintLog: New page: Compile BP_TriggerBox_Button1
+[2018.09.10-05.34.50:106][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021255249ef8, Size=56
+[2018.09.10-05.34.50:106][895]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021255249ef8, Size=56, BP_TriggerBox_Button1_C_5 Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_90:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.50:108][895]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212552489c0, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.34.50:328][895]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.216 s
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: 
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1164]
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: 
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: Stack: 
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000EF33B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000EF09AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000EF0AECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000E124ED44 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x0000000000A2E5B4 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000E04AFA5D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000E0450629 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000EDFE72F1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000E0450043 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000E049FE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000E04A4BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5AE687F UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5BDF8B6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5B446B2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5B45BD9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5BC12F5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5C7B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5CA19E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5AC485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5A97D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5B2F617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5B17D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x00000000F5B0B3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x0000000017C3E69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.34.50:328][895]LogOutputDevice: Error: [Callstack] 0x0000000017C31B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000017C4052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000017C2D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000045886CC1 USER32.dll!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000045886693 USER32.dll!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000017C41666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000001145475 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000001156BD0 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000001156C4A UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000001164177 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000001165B87 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000043193034 KERNEL32.DLL!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: [Callstack] 0x0000000045D61431 ntdll.dll!UnknownFunction []
+[2018.09.10-05.34.50:329][895]LogOutputDevice: Error: 
+[2018.09.10-05.34.50:339][895]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.10-05.34.50:960][895]LogStats:                    SendNewReport -  0.621 s
+[2018.09.10-05.34.50:960][895]LogStats:             FDebug::EnsureFailed -  0.851 s
+[2018.09.10-05.34.51:202][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002125524a390, Size=56
+[2018.09.10-05.34.52:030][982]LogSavePackage: Save=19.00ms
+[2018.09.10-05.34.52:030][982]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_TriggerBox_Button1D12E2D33466CBE7510842FAA8A5EB9D6.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset'
+[2018.09.10-05.34.52:033][982]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset
+[2018.09.10-05.35.37:691][173]BlueprintLog: New page: Compile BP_TriggerBox_Button1
+[2018.09.10-05.35.37:709][173]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000212552489c0, Size=56
+[2018.09.10-05.35.37:709][173]LogUObjectGlobals: Created PersistentFrame Addr=0x000002126d68d7f8, Size=56, BP_TriggerBox_Button1_C_6 Function /Engine/Transient.REINST_BP_TriggerBox_Button1_C_94:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.35.37:712][173]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212548b5b78, Size=56, Default__BP_TriggerBox_Button1_C Function /Game/Blueprints/_GeneralUse/BP_TriggerBox_Button1.BP_TriggerBox_Button1_C:ExecuteUbergraph_BP_TriggerBox_Button1
+[2018.09.10-05.35.38:040][173]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021255249ef8, Size=56
+[2018.09.10-05.35.38:316][196]LogSavePackage: Save=21.33ms
+[2018.09.10-05.35.38:316][196]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_TriggerBox_Button170D989DD4826E4123FFE8C9025EF345B.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset'
+[2018.09.10-05.35.38:317][196]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/_GeneralUse/BP_TriggerBox_Button1.uasset
+[2018.09.10-05.36.07:245][897]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002126d68d7f8, Size=56
+[2018.09.10-05.36.07:615][897]LogSavePackage: Save=316.88ms
+[2018.09.10-05.36.07:615][897]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/IntroScene_Auto1B935B41D48E132E4C1EE35B270000947.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Autosaves/Game/_Scenes/IntroScene_Auto1.umap'
+[2018.09.10-05.36.07:618][897]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Autosaves/Game/_Scenes/IntroScene_Auto1.umap
+[2018.09.10-05.36.07:623][897]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Scenes/IntroScene' took 0.411
+[2018.09.10-05.36.07:623][897]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.411
+[2018.09.10-05.36.07:626][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/_GeneralUse/BP_Button] ([1] browsable assets)...
+[2018.09.10-05.36.07:663][897]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/_GeneralUse/BP_Button.BP_Button]
+[2018.09.10-05.36.07:663][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/_GeneralUse/BP_Button]
+[2018.09.10-05.36.07:739][897]LogSavePackage: Save=37.25ms
+[2018.09.10-05.36.07:740][897]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_Button_Auto114249FA34DC3A47932F9C1A1081A4516.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Autosaves/Game/Blueprints/_GeneralUse/BP_Button_Auto1.uasset'
+[2018.09.10-05.36.07:742][897]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Autosaves/Game/Blueprints/_GeneralUse/BP_Button_Auto1.uasset
+[2018.09.10-05.36.07:742][897]LogFileHelpers: Auto-saving content packages took 0.117
+[2018.09.10-05.36.35:044][237]BlueprintLog: New page: Compile BP_MotionController
+[2018.09.10-05.36.35:184][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211834eac00, Size=968
+[2018.09.10-05.36.35:184][237]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021252a89c00, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_106:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.36.35:203][237]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211834ea400, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.10-05.36.43:200][112]LogTemp: Repeating last play command: VR Preview
+[2018.09.10-05.36.43:234][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.36.43:234][112]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.10-05.36.43:236][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000212b5754268, Size=4
+[2018.09.10-05.36.43:236][112]LogUObjectGlobals: Created PersistentFrame Addr=0x00000212149c7740, Size=4, Default__SKEL_BP_Button_C Function /Engine/Transient.REINST_SKEL_BP_Button_C_108:ExecuteUbergraph_BP_Button
+[2018.09.10-05.36.43:237][112]LogPlayLevel: [PlayLevel] Compiling BP_Button before play...
+[2018.09.10-05.36.43:239][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002121df8ded0, Size=24
+[2018.09.10-05.36.43:239][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000002121465c328, Size=24, Default__BP_Button_C Function /Engine/Transient.REINST_BP_Button_C_110:ExecuteUbergraph_BP_Button
+[2018.09.10-05.36.43:240][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000002121465c808, Size=24, Default__BP_Button_C Function /Game/Blueprints/_GeneralUse/BP_Button.BP_Button_C:ExecuteUbergraph_BP_Button
+[2018.09.10-05.36.43:534][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021252a89c00, Size=968
+[2018.09.10-05.36.43:535][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000212149c7740, Size=4
+[2018.09.10-05.36.43:535][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002121465c328, Size=24
+[2018.09.10-05.36.43:537][112]LogPlayLevel: PlayLevel: Blueprint regeneration took 303 ms (1 blueprints)
+[2018.09.10-05.36.43:537][112]PIE: New page: PIE session: IntroScene (11 Sep 2018 01:36:43)
+[2018.09.10-05.36.43:537][112]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.10-05.36.43:544][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006218s)
+[2018.09.10-05.36.43:544][112]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.10-05.36.43:544][112]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.09.10-05.36.43:544][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.007111s)
+[2018.09.10-05.36.43:576][112]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-05.36.43:584][112]LogInit: FAudioDevice initialized.
+[2018.09.10-05.36.43:683][112]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.10-05.36.43:683][112]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-05.36.43:688][112]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.10-15.36.43
+[2018.09.10-05.36.43:688][112]LogWorld: Bringing up level for play took: 0.004811
+[2018.09.10-05.36.43:702][112]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene -0.336
+[2018.09.10-05.36.43:702][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.37.12:171][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.37.12:446][625]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-05.37.12:486][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.10-05.37.26:408][157]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.09.10-05.37.26:413][157]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.005 s
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: 
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: Stack: 
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000EF33B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000EF09AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000EF0AECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000EE003DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000DEFAB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000DF3FC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000DF2877AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000DF28AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000DF3C6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000F5AE6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000F5AEBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000F5D1C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000F5B40475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000F5B18360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x00000000F5B0B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000017C3E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000017C31B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000017C4052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000017C2D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000045886CC1 USER32.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000045886693 USER32.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000017C41666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000001145475 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000001156BD0 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000001156C4A UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000001164177 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000001165B87 UE4Editor.exe!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000043193034 KERNEL32.DLL!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: [Callstack] 0x0000000045D61431 ntdll.dll!UnknownFunction []
+[2018.09.10-05.37.26:414][157]LogOutputDevice: Error: 
+[2018.09.10-05.37.26:415][157]LogStats:                SubmitErrorReport -  0.000 s
