@@ -29,14 +29,6 @@ PostDateIcon March 22nd, 2014
 
 http://www.leonarddavid.com/2014/03/
 
-Particle effects - 
-
-
-FBX Models - 
-
-
-Sprites - 
-
 
 Audio - 
 
@@ -66,3 +58,12 @@ measures that legally restrict others from doing anything the license permits.
 https://freesound.org/people/digifishmusic/sounds/32937/
 I particularly like some of the extra sounds from the mechanism. 
 Thanks for the original sample Dave! :)
+
+
+Particle effects - 
+
+
+FBX Models - 
+
+
+Sprites - 
