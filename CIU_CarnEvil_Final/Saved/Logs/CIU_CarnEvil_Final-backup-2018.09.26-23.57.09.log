@@ -1,0 +1,1278 @@
+﻿Log file open, 09/26/18 16:43:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CIU_CarnEvil_Final
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1002011559) SRandInit(1002011559).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.658220
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.590s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-QTNQBAN (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Game Engines/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.26-06.43.02:011][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-06.43.02:011][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.26-06.43.02:022][  0]LogInit: Computer: DESKTOP-QTNQBAN
+[2018.09.26-06.43.02:022][  0]LogInit: User: Matt
+[2018.09.26-06.43.02:022][  0]LogInit: CPU Page size=4096, Cores=10
+[2018.09.26-06.43.02:022][  0]LogInit: High frequency timer resolution =3.234378 MHz
+[2018.09.26-06.43.02:022][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.09.26-06.43.02:022][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.26-06.43.02:022][  0]LogMemory: Process Physical Memory: 277.50 MB used, 277.50 MB peak
+[2018.09.26-06.43.02:022][  0]LogMemory: Process Virtual Memory: 275.20 MB used, 275.20 MB peak
+[2018.09.26-06.43.02:022][  0]LogMemory: Physical Memory: 13258.51 MB used,  19187.85 MB free, 32446.36 MB total
+[2018.09.26-06.43.02:022][  0]LogMemory: Virtual Memory: 4845.62 MB used,  19187.85 MB free, 134217728.00 MB total
+[2018.09.26-06.43.02:039][  0]LogInit: Using OS detected language (en-GB).
+[2018.09.26-06.43.02:039][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.26-06.43.02:041][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.09.26-06.43.02:414][  0]LogStreaming: Display: Took  0.375s to EndInitTextLocalization.
+[2018.09.26-06.43.02:414][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.26-06.43.02:434][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.26-06.43.02:434][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.26-06.43.02:581][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.26-06.43.02:643][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.09.26-06.43.02:643][  0]LogD3D11RHI:       11127/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.26-06.43.02:645][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.26-06.43.02:645][  0]LogD3D11RHI:       0/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.26-06.43.02:645][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.26-06.43.02:653][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.26-06.43.02:653][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.26-06.43.02:653][  0]LogWindows: EnumDisplayDevices:
+[2018.09.26-06.43.02:653][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.09.26-06.43.02:654][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.26-06.43.02:654][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.26-06.43.02:654][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.26-06.43.02:654][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.26-06.43.02:654][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.09.26-06.43.02:654][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.26-06.43.02:654][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.26-06.43.02:654][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.09.26-06.43.02:692][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.26-06.43.02:692][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.26-06.43.02:692][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.26-06.43.02:711][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.26-06.43.02:712][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Intermediate/Shaders/WorkingDirectory/11852/).
+[2018.09.26-06.43.02:712][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/58018077496EE40CB94BC0886FED4755/'.
+[2018.09.26-06.43.02:869][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.26-06.43.02:879][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.26-06.43.02:890][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.26-06.43.02:906][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.26-06.43.02:917][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.26-06.43.02:928][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.26-06.43.02:938][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.26-06.43.02:949][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.26-06.43.02:956][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.26-06.43.02:966][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.26-06.43.02:978][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.26-06.43.02:988][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.26-06.43.02:998][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.26-06.43.03:008][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.26-06.43.03:018][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.26-06.43.03:038][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.26-06.43.03:038][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.26-06.43.03:048][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-06.43.03:049][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.26-06.43.03:083][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.26-06.43.03:092][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.26-06.43.03:102][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.26-06.43.03:112][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.26-06.43.03:122][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.26-06.43.03:132][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.26-06.43.03:132][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.26-06.43.03:205][  0]LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.26-06.43.03:205][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.26-06.43.03:205][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.26-06.43.03:205][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.26-06.43.03:746][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.26-06.43.03:810][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.26-06.43.03:810][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.26-06.43.03:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.26-06.43.03:810][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.26-06.43.03:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.26-06.43.03:810][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.26-06.43.03:822][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.26-06.43.03:835][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.26-06.43.03:835][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.26-06.43.03:835][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.26-06.43.03:845][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.26-06.43.03:845][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.26-06.43.03:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.26-06.43.03:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.26-06.43.03:946][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.09.26-06.43.04:234][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-06.43.04:346][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.26-06.43.04:348][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.26-06.43.04:348][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.26-06.43.04:348][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.26-06.43.04:348][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.26-06.43.04:348][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.26-06.43.04:372][  0]LogNetVersion: CIU_CarnEvil_Final , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2718905845)
+[2018.09.26-06.43.04:772][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.068939 seconds
+[2018.09.26-06.43.04:777][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.26-06.43.04:777][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.09.26-06.43.04:777][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.26-06.43.06:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.26-06.43.06:179][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.26-06.43.06:437][  0]SourceControl: Source control is disabled
+[2018.09.26-06.43.06:437][  0]SourceControl: Source control is disabled
+[2018.09.26-06.43.06:448][  0]SourceControl: Source control is disabled
+[2018.09.26-06.43.06:459][  0]SourceControl: Source control is disabled
+[2018.09.26-06.43.06:802][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.26-06.43.06:943][  0]LogOcInput: OculusInput pre-init called
+[2018.09.26-06.43.07:022][  0]LogEngine: Initializing Engine...
+[2018.09.26-06.43.07:820][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2018.09.26-06.43.07:822][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-06.43.07:822][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-06.43.08:129][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.26-06.43.08:150][  0]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.43.08:165][  0]LogInit: FAudioDevice initialized.
+[2018.09.26-06.43.08:298][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.26-06.43.08:305][  0]LogInit: Texture streaming: Enabled
+[2018.09.26-06.43.08:316][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.26-06.43.08:334][  0]LogInit: Transaction tracking system initialized
+[2018.09.26-06.43.08:350][  0]BlueprintLog: New page: Editor Load
+[2018.09.26-06.43.08:404][  0]LocalizationService: Localization service is disabled
+[2018.09.26-06.43.08:490][  0]LogConsoleResponse: Display: 
+[2018.09.26-06.43.08:606][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.26-06.43.08:606][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.26-06.43.08:606][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.26-06.43.08:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-06.43.08:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-06.43.08:853][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/' took 0.03s
+[2018.09.26-06.43.08:853][  0]SourceControl: Source control is disabled
+[2018.09.26-06.43.08:853][  0]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-06.43.08:853][  0]LightingResults: New page: Lighting Build
+[2018.09.26-06.43.08:855][  0]MapCheck: New page: Map Check
+[2018.09.26-06.43.08:855][  0]LightingResults: New page: Lighting Build
+[2018.09.26-06.43.08:948][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b31bb6cf8, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.26-06.43.08:950][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b31bb6cf8, Size=24
+[2018.09.26-06.43.08:950][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b31bb6cf8, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_0:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.26-06.43.08:952][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b31bb5fc0, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.26-06.43.08:988][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2b3db000, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.26-06.43.09:018][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2b3db000, Size=968
+[2018.09.26-06.43.09:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2b3db000, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_10:ExecuteUbergraph_BP_MotionController
+[2018.09.26-06.43.09:038][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2b3d9000, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.26-06.43.09:044][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2be72e80, Size=800, Default__BP_Button_Quit_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Quit.BP_Button_Quit_C:ExecuteUbergraph_BP_Button_Quit
+[2018.09.26-06.43.09:051][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2be72e80, Size=800
+[2018.09.26-06.43.09:051][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2be72e80, Size=800, Default__BP_Button_Quit_C Function /Engine/Transient.REINST_BP_Button_Quit_C_12:ExecuteUbergraph_BP_Button_Quit
+[2018.09.26-06.43.09:057][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2be71980, Size=800, Default__BP_Button_Quit_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Quit.BP_Button_Quit_C:ExecuteUbergraph_BP_Button_Quit
+[2018.09.26-06.43.09:063][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2be72b00, Size=800, Default__BP_Button_Start_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Start.BP_Button_Start_C:ExecuteUbergraph_BP_Button_Start
+[2018.09.26-06.43.09:070][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2be72b00, Size=800
+[2018.09.26-06.43.09:070][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2be72b00, Size=800, Default__BP_Button_Start_C Function /Engine/Transient.REINST_BP_Button_Start_C_14:ExecuteUbergraph_BP_Button_Start
+[2018.09.26-06.43.09:077][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2be70b80, Size=800, Default__BP_Button_Start_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Start.BP_Button_Start_C:ExecuteUbergraph_BP_Button_Start
+[2018.09.26-06.43.09:083][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2bf02e00, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.26-06.43.09:094][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2bf02e00, Size=752
+[2018.09.26-06.43.09:094][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2bd46e00, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_16:ExecuteUbergraph_MotionControllerPawn
+[2018.09.26-06.43.09:102][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2bd45000, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.26-06.43.09:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2bf2d548, Size=8, Default__VR_Menu_C Function /Game/_Scenes/VR_Menu.VR_Menu_C:ExecuteUbergraph_VR_Menu
+[2018.09.26-06.43.09:150][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2bf2d548, Size=8
+[2018.09.26-06.43.09:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2bf2d548, Size=8, Default__VR_Menu_C Function /Engine/Transient.REINST_VR_Menu_C_18:ExecuteUbergraph_VR_Menu
+[2018.09.26-06.43.09:151][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b2bf2d4a8, Size=8, Default__VR_Menu_C Function /Game/_Scenes/VR_Menu.VR_Menu_C:ExecuteUbergraph_VR_Menu
+[2018.09.26-06.43.09:240][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.645757ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.09.26-06.43.09:419][  0]LogAIModule: Creating AISystem for world VR_Menu
+[2018.09.26-06.43.09:428][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-06.43.09:439][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b31bb6cf8, Size=24
+[2018.09.26-06.43.09:439][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2b3db000, Size=968
+[2018.09.26-06.43.09:439][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2be72e80, Size=800
+[2018.09.26-06.43.09:439][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2be72b00, Size=800
+[2018.09.26-06.43.09:439][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2bd46e00, Size=752
+[2018.09.26-06.43.09:439][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2bf2d548, Size=8
+[2018.09.26-06.43.09:440][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-06.43.09:481][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.218ms to complete.
+[2018.09.26-06.43.09:481][  0]LogFileHelpers: Loading map 'VR_Menu' took 0.628
+[2018.09.26-06.43.09:583][  0]LogCollectionManager: Loaded 0 collections in 0.000844 seconds
+[2018.09.26-06.43.09:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Collections/' took 0.01s
+[2018.09.26-06.43.09:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Developers/Matt/Collections/' took 0.01s
+[2018.09.26-06.43.09:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Collections/' took 0.01s
+[2018.09.26-06.43.09:622][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.26-06.43.09:630][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2452 classes and 558 folders.
+[2018.09.26-06.43.09:636][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.26-06.43.09:673][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.26-06.43.09:679][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.26-06.43.09:768][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.26-06.43.09:768][  0]LogLoad: (Engine Initialization) Total time: 10.16 seconds
+[2018.09.26-06.43.09:768][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.26-06.43.10:129][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.26-06.43.10:130][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.26-06.43.10:132][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.26-06.43.10:136][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.26-06.43.10:259][  1]LogRenderer: Reallocating scene render targets to support 920x532 Format 10 NumSamples 1 (Frame:1).
+[2018.09.26-06.43.10:473][  1]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-06.43.10:789][  2]LogAssetRegistry: Asset discovery search completed in 6.8664 seconds
+[2018.09.26-06.43.10:793][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.26-06.43.10:793][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.09.26-06.43.14:728][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.43.19:784][954]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-06.43.19:799][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b761dd280, Size=800, Default__BP_Button_Bowling_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Bowling.BP_Button_Bowling_C:ExecuteUbergraph_BP_Button_Bowling
+[2018.09.26-06.43.19:806][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b761dd280, Size=800
+[2018.09.26-06.43.19:806][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b761dd280, Size=800, Default__BP_Button_Bowling_C Function /Engine/Transient.REINST_BP_Button_Bowling_C_20:ExecuteUbergraph_BP_Button_Bowling
+[2018.09.26-06.43.19:814][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b761dc100, Size=800, Default__BP_Button_Bowling_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Bowling.BP_Button_Bowling_C:ExecuteUbergraph_BP_Button_Bowling
+[2018.09.26-06.43.19:820][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b6d058f00, Size=800, Default__BP_Button_ClownBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_ClownBall.BP_Button_ClownBall_C:ExecuteUbergraph_BP_Button_ClownBall
+[2018.09.26-06.43.19:827][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b6d058f00, Size=800
+[2018.09.26-06.43.19:827][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b6d058f00, Size=800, Default__BP_Button_ClownBall_C Function /Engine/Transient.REINST_BP_Button_ClownBall_C_22:ExecuteUbergraph_BP_Button_ClownBall
+[2018.09.26-06.43.19:833][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b270eb900, Size=800, Default__BP_Button_ClownBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_ClownBall.BP_Button_ClownBall_C:ExecuteUbergraph_BP_Button_ClownBall
+[2018.09.26-06.43.19:839][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b270eb200, Size=800, Default__BP_Button_HeartBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_HeartBall.BP_Button_HeartBall_C:ExecuteUbergraph_BP_Button_HeartBall
+[2018.09.26-06.43.19:846][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b270eb200, Size=800
+[2018.09.26-06.43.19:846][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b270eb200, Size=800, Default__BP_Button_HeartBall_C Function /Engine/Transient.REINST_BP_Button_HeartBall_C_24:ExecuteUbergraph_BP_Button_HeartBall
+[2018.09.26-06.43.19:852][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b270ea400, Size=800, Default__BP_Button_HeartBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_HeartBall.BP_Button_HeartBall_C:ExecuteUbergraph_BP_Button_HeartBall
+[2018.09.26-06.43.19:858][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b270eb580, Size=800, Default__BP_Button_Menu_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Menu.BP_Button_Menu_C:ExecuteUbergraph_BP_Button_Menu
+[2018.09.26-06.43.19:864][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b270eb580, Size=800
+[2018.09.26-06.43.19:864][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b270eb580, Size=800, Default__BP_Button_Menu_C Function /Engine/Transient.REINST_BP_Button_Menu_C_26:ExecuteUbergraph_BP_Button_Menu
+[2018.09.26-06.43.19:871][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b270e9600, Size=800, Default__BP_Button_Menu_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Menu.BP_Button_Menu_C:ExecuteUbergraph_BP_Button_Menu
+[2018.09.26-06.43.19:881][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b27043d00, Size=352, Default__BP_KitchenKnife_C Function /Game/Blueprints/KnifeThrow/BP_KitchenKnife.BP_KitchenKnife_C:ExecuteUbergraph_BP_KitchenKnife
+[2018.09.26-06.43.19:884][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b27043d00, Size=352
+[2018.09.26-06.43.19:884][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76e52200, Size=352, Default__BP_KitchenKnife_C Function /Engine/Transient.REINST_BP_KitchenKnife_C_28:ExecuteUbergraph_BP_KitchenKnife
+[2018.09.26-06.43.19:886][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76e1f400, Size=352, Default__BP_KitchenKnife_C Function /Game/Blueprints/KnifeThrow/BP_KitchenKnife.BP_KitchenKnife_C:ExecuteUbergraph_BP_KitchenKnife
+[2018.09.26-06.43.19:890][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76e1d600, Size=352, Default__BP_Knife_C Function /Game/Blueprints/KnifeThrow/BP_Knife.BP_Knife_C:ExecuteUbergraph_BP_Knife
+[2018.09.26-06.43.19:893][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76e1d600, Size=352
+[2018.09.26-06.43.19:893][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76dfce80, Size=352, Default__BP_Knife_C Function /Engine/Transient.REINST_BP_Knife_C_30:ExecuteUbergraph_BP_Knife
+[2018.09.26-06.43.19:895][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76df0580, Size=352, Default__BP_Knife_C Function /Game/Blueprints/KnifeThrow/BP_Knife.BP_Knife_C:ExecuteUbergraph_BP_Knife
+[2018.09.26-06.43.19:943][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76dac400, Size=720, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.43.19:960][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76dac400, Size=720
+[2018.09.26-06.43.19:960][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76ad9f00, Size=720, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_34:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.43.19:971][954]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76526800, Size=720, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.43.20:163][954]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.43.20:227][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76dfce80, Size=352
+[2018.09.26-06.43.20:227][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76e52200, Size=352
+[2018.09.26-06.43.20:227][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b270eb580, Size=800
+[2018.09.26-06.43.20:227][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b270eb200, Size=800
+[2018.09.26-06.43.20:227][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b6d058f00, Size=800
+[2018.09.26-06.43.20:227][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b761dd280, Size=800
+[2018.09.26-06.43.20:227][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76ad9f00, Size=720
+[2018.09.26-06.43.20:230][954]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-06.43.20:230][954]LightingResults: New page: Lighting Build
+[2018.09.26-06.43.20:230][954]LoadErrors: New page: Loading map: KnifeThrow.umap
+[2018.09.26-06.43.20:231][954]MapCheck: New page: Map Check
+[2018.09.26-06.43.20:231][954]LightingResults: New page: Lighting Build
+[2018.09.26-06.43.20:239][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2bf2d4a8, Size=8
+[2018.09.26-06.43.20:313][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-06.43.20:350][954]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-06.43.20:393][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.219ms to complete.
+[2018.09.26-06.43.20:393][954]LogFileHelpers: Loading map 'KnifeThrow' took 0.164
+[2018.09.26-06.43.25:821][586]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_SpawnKnife)
+[2018.09.26-06.43.28:054][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.43.31:276][217]Cmd: DUPLICATE
+[2018.09.26-06.43.31:276][217]Cmd: ACTOR DUPLICATE
+[2018.09.26-06.43.42:950][560]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_SpawnKnife)
+[2018.09.26-06.43.49:449][317]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_SpawnKnife2)
+[2018.09.26-06.43.50:562][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.44.13:373][ 99]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_RespwnKnife_UserPicksUp)
+[2018.09.26-06.44.15:704][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.44.18:211][656]Cmd: MODE GRID=0
+[2018.09.26-06.44.21:544][ 42]Cmd: DUPLICATE
+[2018.09.26-06.44.21:544][ 42]Cmd: ACTOR DUPLICATE
+[2018.09.26-06.44.26:674][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.44.40:555][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76526800, Size=720
+[2018.09.26-06.44.40:555][291]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b6dffba00, Size=720, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_38:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.44.40:569][291]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b6dff9300, Size=720, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.44.40:847][291]LogSavePackage: Save=359.39ms
+[2018.09.26-06.44.40:848][291]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/KnifeThrowAD5D979142CB0998857FE5A898F4EA4E.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap'
+[2018.09.26-06.44.40:850][291]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap
+[2018.09.26-06.44.40:883][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/KnifeThrow_BuiltData" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow_BuiltData.uasset" SILENT=true
+[2018.09.26-06.44.40:967][291]LogSavePackage: Save=65.98ms
+[2018.09.26-06.44.40:967][291]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/KnifeThrow_BuiltData00AD2AAD4C5DEB6174D66A90EF3103EE.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow_BuiltData.uasset'
+[2018.09.26-06.44.40:969][291]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow_BuiltData.uasset
+[2018.09.26-06.44.56:864][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b561b7bd8, Size=4, Default__SKEL_BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.SKEL_BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.44.56:865][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b561b7bd8, Size=4
+[2018.09.26-06.44.56:865][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b561b7bd8, Size=4, Default__SKEL_BP_Axe_C Function /Engine/Transient.REINST_SKEL_BP_Axe_C_41:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.44.56:866][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b561b6d40, Size=4, Default__SKEL_BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.SKEL_BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.44.56:870][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b3431c580, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.44.56:875][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b561b6d40, Size=4
+[2018.09.26-06.44.56:876][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b561b6d40, Size=4, Default__SKEL_BP_Axe_C Function /Engine/Transient.REINST_SKEL_BP_Axe_C_44:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.44.56:881][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b3431c580, Size=352
+[2018.09.26-06.44.56:881][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b27396080, Size=352, Default__BP_Axe_C Function /Engine/Transient.REINST_BP_Axe_C_46:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.44.56:884][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b761e5480, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.44.58:804][365]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.26-06.44.59:037][365]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb10b9680, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.26-06.44.59:038][365]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb10b9678, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.26-06.44.59:365][365]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.26-06.44.59:441][367]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.26-06.45.05:723][956]LogSlate: Window 'BP_Axe*' being destroyed
+[2018.09.26-06.45.12:418][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.45.15:072][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb560bf38, Size=4, Default__SKEL_BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.SKEL_BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.45.17:522][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb560bf38, Size=4
+[2018.09.26-06.45.17:522][358]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb3db0480, Size=4, Default__SKEL_BP_Axe_C Function /Engine/Transient.REINST_SKEL_BP_Axe_C_62:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.45.17:525][358]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb3db0540, Size=4, Default__SKEL_BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.SKEL_BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.45.22:335][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb3db0540, Size=4
+[2018.09.26-06.45.22:335][931]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb56084f8, Size=4, Default__SKEL_BP_Axe_C Function /Engine/Transient.REINST_SKEL_BP_Axe_C_64:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.45.22:337][931]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb5609420, Size=4, Default__SKEL_BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.SKEL_BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.45.33:739][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.45.44:270][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.45.59:078][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.46.13:741][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.46.27:938][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.46.34:723][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.46.48:875][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.47.04:934][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.47.24:045][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.47.41:742][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.47.47:186][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.48.05:975][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.48.21:037][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.48.40:165][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.48.53:991][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.49.06:200][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.49.06:275][414]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.49.06:281][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb5609420, Size=4
+[2018.09.26-06.49.06:281][414]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb4add730, Size=4, SKEL_BP_Axe_C_0 Function /Engine/Transient.REINST_SKEL_BP_Axe_C_66:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.49.06:287][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b761e5480, Size=352
+[2018.09.26-06.49.06:287][414]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb45f1000, Size=352, BP_Axe_C_1228 Function /Engine/Transient.REINST_BP_Axe_C_68:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.49.06:290][414]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb48fe980, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.49.06:548][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b27396080, Size=352
+[2018.09.26-06.49.06:548][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b561b6d40, Size=4
+[2018.09.26-06.49.06:548][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b561b7bd8, Size=4
+[2018.09.26-06.49.06:548][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b6dffba00, Size=720
+[2018.09.26-06.49.06:549][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb56084f8, Size=4
+[2018.09.26-06.49.06:549][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb4add730, Size=4
+[2018.09.26-06.49.07:013][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KnifeThrow/BP_Axe" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset" SILENT=true
+[2018.09.26-06.49.07:048][458]LogSavePackage: Save=32.46ms
+[2018.09.26-06.49.07:048][458]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_AxeCBB8C3C843FCB9DBD17C19AED830E73D.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset'
+[2018.09.26-06.49.07:050][458]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset
+[2018.09.26-06.49.11:034][930]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.26-06.49.11:034][930]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.26-06.49.55:852][979]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be86db7d0, Size=4, Default__SKEL_KnifeThrow_C Function /Game/_Scenes/KnifeThrow.SKEL_KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.19:319][663]BlueprintLog: New page: Compile KnifeThrow
+[2018.09.26-06.50.19:354][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be86db7d0, Size=4
+[2018.09.26-06.50.19:354][663]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be88081f8, Size=4, Default__SKEL_KnifeThrow_C Function /Engine/Transient.REINST_SKEL_KnifeThrow_C_72:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.19:389][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b6dff9300, Size=720
+[2018.09.26-06.50.19:389][663]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bde2a2500, Size=720, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_74:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.19:401][663]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be79a4800, Size=816, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.19:489][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be88081f8, Size=4
+[2018.09.26-06.50.31:355][ 22]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bde86d3e0, Size=4, Default__SKEL_KnifeThrow_C Function /Game/_Scenes/KnifeThrow.SKEL_KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.34:305][327]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bde86d3e0, Size=4
+[2018.09.26-06.50.34:305][327]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be3dc2ec0, Size=4, Default__SKEL_KnifeThrow_C Function /Engine/Transient.REINST_SKEL_KnifeThrow_C_78:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.34:313][327]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be3dc3048, Size=4, Default__SKEL_KnifeThrow_C Function /Game/_Scenes/KnifeThrow.SKEL_KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.43:617][390]BlueprintLog: New page: Compile KnifeThrow
+[2018.09.26-06.50.43:651][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be3dc3048, Size=4
+[2018.09.26-06.50.43:651][390]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be7c6f478, Size=4, Default__SKEL_KnifeThrow_C Function /Engine/Transient.REINST_SKEL_KnifeThrow_C_80:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.43:687][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be79a4800, Size=816
+[2018.09.26-06.50.43:687][390]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be79a4800, Size=816, KnifeThrow_C_0 Function /Engine/Transient.REINST_KnifeThrow_C_82:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.43:698][390]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be79a6b00, Size=816, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.43:788][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bde2a2500, Size=720
+[2018.09.26-06.50.43:788][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be7c6f478, Size=4
+[2018.09.26-06.50.43:788][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be3dc2ec0, Size=4
+[2018.09.26-06.50.44:525][431]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be79a4800, Size=816
+[2018.09.26-06.50.44:616][431]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be79a6b00, Size=816
+[2018.09.26-06.50.44:616][431]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b712dee80, Size=816, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_86:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.44:627][431]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be79a6b00, Size=816, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.50.44:977][431]LogSavePackage: Save=431.06ms
+[2018.09.26-06.50.44:977][431]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/KnifeThrow900FCAFD40861A993116A7BA5E8B262B.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap'
+[2018.09.26-06.50.44:980][431]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap
+[2018.09.26-06.50.45:009][431]LogFileHelpers: Saving map 'KnifeThrow' took 0.551
+[2018.09.26-06.50.46:217][540]LogTemp: Repeating last play command: VR Preview
+[2018.09.26-06.50.46:240][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.50.46:240][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.50.46:240][540]PIE: New page: PIE session: KnifeThrow (27 Sep 2018 02:50:46)
+[2018.09.26-06.50.46:240][540]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.50.46:253][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012331s)
+[2018.09.26-06.50.46:253][540]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.50.46:253][540]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.09.26-06.50.46:254][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013103s)
+[2018.09.26-06.50.46:273][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb45f1000, Size=352
+[2018.09.26-06.50.46:273][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b712dee80, Size=816
+[2018.09.26-06.50.46:273][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb3db0480, Size=4
+[2018.09.26-06.50.46:284][540]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.50.46:293][540]LogInit: FAudioDevice initialized.
+[2018.09.26-06.50.46:393][540]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.50.46:393][540]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.50.46:397][540]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.50.46
+[2018.09.26-06.50.46:397][540]LogWorld: Bringing up level for play took: 0.003080
+[2018.09.26-06.50.46:401][540]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.09.26-06.50.46:409][540]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow 1.106
+[2018.09.26-06.50.46:410][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.50.46:465][541]LogRenderer: Reallocating scene render targets to support 4512x2256 Format 10 NumSamples 1 (Frame:1).
+[2018.09.26-06.51.15:637][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.15:854][147]LogSlate: Window 'CIU_CarnEvil_Final Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.26-06.51.15:927][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.18:395][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.18:395][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.51.18:395][433]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:51:18)
+[2018.09.26-06.51.18:395][433]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.51.18:408][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012743s)
+[2018.09.26-06.51.18:409][433]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.51.18:409][433]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2018.09.26-06.51.18:409][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013534s)
+[2018.09.26-06.51.18:434][433]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.51.18:442][433]LogInit: FAudioDevice initialized.
+[2018.09.26-06.51.18:472][433]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.51.18:472][433]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.51.18:475][433]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.51.18
+[2018.09.26-06.51.18:475][433]LogWorld: Bringing up level for play took: 0.002752
+[2018.09.26-06.51.18:475][433]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.51.18:478][433]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow -0.826
+[2018.09.26-06.51.18:484][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.20:444][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.51.20:519][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.20:555][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.21:615][770]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_SpawnAxe)
+[2018.09.26-06.51.24:049][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.51.35:542][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.51.35:600][410]LogTemp: Repeating last play command: Simulate
+[2018.09.26-06.51.35:622][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.35:622][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.51.35:622][410]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:51:35)
+[2018.09.26-06.51.35:622][410]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.51.35:635][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012542s)
+[2018.09.26-06.51.35:635][410]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.51.35:636][410]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.09.26-06.51.35:636][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013319s)
+[2018.09.26-06.51.35:660][410]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.51.35:669][410]LogInit: FAudioDevice initialized.
+[2018.09.26-06.51.35:700][410]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.51.35:700][410]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.51.35:703][410]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.51.35
+[2018.09.26-06.51.35:703][410]LogWorld: Bringing up level for play took: 0.002847
+[2018.09.26-06.51.35:704][410]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.51.35:706][410]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow 0.402
+[2018.09.26-06.51.35:709][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.43:191][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.51.43:302][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.51.43:341][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.06:521][956]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_SpawnAxe)
+[2018.09.26-06.52.10:805][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.52.10:906][474]LogTemp: Repeating last play command: Simulate
+[2018.09.26-06.52.10:926][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.10:927][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.52.10:927][474]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:52:10)
+[2018.09.26-06.52.10:927][474]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.52.10:940][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012695s)
+[2018.09.26-06.52.10:940][474]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.52.10:940][474]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.09.26-06.52.10:940][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013437s)
+[2018.09.26-06.52.10:965][474]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.52.10:974][474]LogInit: FAudioDevice initialized.
+[2018.09.26-06.52.11:007][474]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.52.11:007][474]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.52.11:010][474]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.52.11
+[2018.09.26-06.52.11:010][474]LogWorld: Bringing up level for play took: 0.002914
+[2018.09.26-06.52.11:011][474]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.52.11:013][474]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow -0.29
+[2018.09.26-06.52.11:019][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.15:886][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.15:963][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.19:222][394]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_SpawnAxe)
+[2018.09.26-06.52.22:683][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.52.22:758][807]LogTemp: Repeating last play command: Simulate
+[2018.09.26-06.52.22:780][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.22:780][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.52.22:780][807]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:52:22)
+[2018.09.26-06.52.22:780][807]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.52.22:792][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012085s)
+[2018.09.26-06.52.22:792][807]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.52.22:793][807]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.09.26-06.52.22:793][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.012847s)
+[2018.09.26-06.52.22:818][807]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.52.22:826][807]LogInit: FAudioDevice initialized.
+[2018.09.26-06.52.22:859][807]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.52.22:859][807]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.52.22:862][807]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.52.22
+[2018.09.26-06.52.22:862][807]LogWorld: Bringing up level for play took: 0.002791
+[2018.09.26-06.52.22:863][807]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.52.22:865][807]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow -0.439
+[2018.09.26-06.52.22:867][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.31:415][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.52.31:491][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.31:528][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.52.37:264][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.52.46:805][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.52.50:649][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.52.50:723][ 28]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.52.50:776][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb48fe980, Size=352
+[2018.09.26-06.52.50:776][ 28]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b820a8e80, Size=352, Default__BP_Axe_C Function /Engine/Transient.REINST_BP_Axe_C_92:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.52.50:778][ 28]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be20d5f00, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.52.58:230][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.52.58:255][866]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.52.58:269][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be20d5f00, Size=352
+[2018.09.26-06.52.58:269][866]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb1da0d00, Size=352, BP_Axe_C_1899 Function /Engine/Transient.REINST_BP_Axe_C_98:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.52.58:271][866]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bc1878100, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.52.58:497][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b820a8e80, Size=352
+[2018.09.26-06.52.58:954][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KnifeThrow/BP_Axe" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset" SILENT=true
+[2018.09.26-06.52.59:004][912]LogSavePackage: Save=27.80ms
+[2018.09.26-06.52.59:004][912]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_AxeA5622F9A4C5179B483C221BEC42EAC58.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset'
+[2018.09.26-06.52.59:006][912]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset
+[2018.09.26-06.53.00:566][ 98]LogTemp: Repeating last play command: Simulate
+[2018.09.26-06.53.00:588][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.53.00:588][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.53.00:588][ 98]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:53:00)
+[2018.09.26-06.53.00:588][ 98]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.53.00:599][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012324s)
+[2018.09.26-06.53.00:601][ 98]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.53.00:601][ 98]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.09.26-06.53.00:601][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013169s)
+[2018.09.26-06.53.00:618][ 98]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb1da0d00, Size=352
+[2018.09.26-06.53.00:627][ 98]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.53.00:635][ 98]LogInit: FAudioDevice initialized.
+[2018.09.26-06.53.00:669][ 98]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.53.00:669][ 98]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.53.00:672][ 98]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.53.00
+[2018.09.26-06.53.00:672][ 98]LogWorld: Bringing up level for play took: 0.002937
+[2018.09.26-06.53.00:673][ 98]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.53.00:675][ 98]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow -0.628
+[2018.09.26-06.53.00:678][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.53.12:417][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.53.12:485][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.53.12:522][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.53.23:944][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.53.24:063][799]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.53.24:116][799]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bc1878100, Size=352
+[2018.09.26-06.53.24:116][799]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b83797a00, Size=352, Default__BP_Axe_C Function /Engine/Transient.REINST_BP_Axe_C_104:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.53.24:118][799]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be307b880, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.53.27:421][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.53.32:930][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.54.05:754][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.54.27:092][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.54.39:540][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.54.49:728][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.54.59:097][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.54.59:147][949]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.54.59:165][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be307b880, Size=352
+[2018.09.26-06.54.59:165][949]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be00af100, Size=352, BP_Axe_C_2739 Function /Engine/Transient.REINST_BP_Axe_C_110:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.54.59:167][949]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bdfc5b580, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.54.59:410][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b83797a00, Size=352
+[2018.09.26-06.55.06:382][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.55.13:681][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.55.13:755][628]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.55.13:768][628]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bdfc5b580, Size=352
+[2018.09.26-06.55.13:768][628]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb1da0400, Size=352, Default__BP_Axe_C Function /Engine/Transient.REINST_BP_Axe_C_116:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.55.13:770][628]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be327cd00, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.55.14:548][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KnifeThrow/BP_Axe" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset" SILENT=true
+[2018.09.26-06.55.14:596][686]LogSavePackage: Save=29.99ms
+[2018.09.26-06.55.14:596][686]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_Axe71794EA949EC21B1F6A9C9AD0874F05E.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset'
+[2018.09.26-06.55.14:598][686]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset
+[2018.09.26-06.55.17:343][ 10]LogTemp: Repeating last play command: Simulate
+[2018.09.26-06.55.17:364][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.55.17:365][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.55.17:365][ 10]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:55:17)
+[2018.09.26-06.55.17:365][ 10]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.55.17:377][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012507s)
+[2018.09.26-06.55.17:378][ 10]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.55.17:378][ 10]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.09.26-06.55.17:378][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013310s)
+[2018.09.26-06.55.17:402][ 10]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.55.17:411][ 10]LogInit: FAudioDevice initialized.
+[2018.09.26-06.55.17:447][ 10]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.55.17:447][ 10]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.55.17:451][ 10]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.55.17
+[2018.09.26-06.55.17:451][ 10]LogWorld: Bringing up level for play took: 0.003079
+[2018.09.26-06.55.17:451][ 10]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.55.17:454][ 10]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow 0.151
+[2018.09.26-06.55.17:457][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.55.23:301][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.55.23:344][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.55.28:448][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.55.42:011][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.55.48:104][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.56.01:436][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.56.15:041][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.56.22:890][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.56.22:959][618]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.56.23:012][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be327cd00, Size=352
+[2018.09.26-06.56.23:012][618]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b80cae800, Size=352, BP_Axe_C_3259 Function /Engine/Transient.REINST_BP_Axe_C_122:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.56.23:015][618]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029baffec280, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.56.29:962][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.56.30:036][413]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.56.30:048][413]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029baffec280, Size=352
+[2018.09.26-06.56.30:048][413]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b76dfb700, Size=352, BP_Axe_C_3536 Function /Engine/Transient.REINST_BP_Axe_C_128:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.56.30:051][413]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be594b880, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.56.39:203][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.57.12:424][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.57.12:508][347]BlueprintLog: New page: Compile BP_Axe
+[2018.09.26-06.57.12:520][347]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be594b880, Size=352
+[2018.09.26-06.57.12:520][347]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be2b21180, Size=352, BP_Axe_C_3724 Function /Engine/Transient.REINST_BP_Axe_C_134:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.57.12:522][347]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bdfb96c80, Size=352, Default__BP_Axe_C Function /Game/Blueprints/KnifeThrow/BP_Axe.BP_Axe_C:ExecuteUbergraph_BP_Axe
+[2018.09.26-06.57.13:422][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KnifeThrow/BP_Axe" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset" SILENT=true
+[2018.09.26-06.57.13:468][411]LogSavePackage: Save=27.74ms
+[2018.09.26-06.57.13:468][411]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_Axe2F2ABB9140E8A3FC6FEFE39948148FE7.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset'
+[2018.09.26-06.57.13:470][411]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset
+[2018.09.26-06.57.15:798][688]LogTemp: Repeating last play command: Simulate
+[2018.09.26-06.57.15:819][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.15:819][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.57.15:820][688]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:57:15)
+[2018.09.26-06.57.15:820][688]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.57.15:831][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012249s)
+[2018.09.26-06.57.15:832][688]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.57.15:832][688]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.09.26-06.57.15:832][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013012s)
+[2018.09.26-06.57.15:857][688]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.57.15:866][688]LogInit: FAudioDevice initialized.
+[2018.09.26-06.57.15:901][688]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.57.15:901][688]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.57.15:904][688]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.57.15
+[2018.09.26-06.57.15:905][688]LogWorld: Bringing up level for play took: 0.002884
+[2018.09.26-06.57.15:905][688]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.57.15:907][688]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow 0.603
+[2018.09.26-06.57.15:910][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.32:927][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.57.33:054][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.33:093][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.35:186][919]LogTemp: Repeating last play command: Simulate
+[2018.09.26-06.57.35:206][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.35:207][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-06.57.35:207][919]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 02:57:35)
+[2018.09.26-06.57.35:207][919]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-06.57.35:220][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012451s)
+[2018.09.26-06.57.35:220][919]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-06.57.35:220][919]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.09.26-06.57.35:221][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013189s)
+[2018.09.26-06.57.35:245][919]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-06.57.35:253][919]LogInit: FAudioDevice initialized.
+[2018.09.26-06.57.35:288][919]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-06.57.35:288][919]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-06.57.35:291][919]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-16.57.35
+[2018.09.26-06.57.35:291][919]LogWorld: Bringing up level for play took: 0.002966
+[2018.09.26-06.57.35:292][919]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-06.57.35:294][919]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow -0.01
+[2018.09.26-06.57.35:297][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.43:387][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.57.43:462][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.43:501][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-06.57.51:729][797]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be8809740, Size=4, Default__SKEL_KnifeThrow_C Function /Game/_Scenes/KnifeThrow.SKEL_KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.01:639][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be8809740, Size=4
+[2018.09.26-06.59.01:639][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb3db1c58, Size=4, Default__SKEL_KnifeThrow_C Function /Engine/Transient.REINST_SKEL_KnifeThrow_C_138:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.01:647][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb3db18f0, Size=4, Default__SKEL_KnifeThrow_C Function /Game/_Scenes/KnifeThrow.SKEL_KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.08:280][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KnifeThrow/BP_Axe" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset" SILENT=true
+[2018.09.26-06.59.08:326][474]LogSavePackage: Save=21.12ms
+[2018.09.26-06.59.08:326][474]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/BP_Axe5E3C9E774D8F6970093D7DAA31F64399.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset'
+[2018.09.26-06.59.08:327][474]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Blueprints/KnifeThrow/BP_Axe.uasset
+[2018.09.26-06.59.11:651][850]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_RespwnAxe_UserPicksUp2)
+[2018.09.26-06.59.13:563][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.59.24:967][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb3db18f0, Size=4
+[2018.09.26-06.59.24:967][383]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb18d6ef8, Size=4, Default__SKEL_KnifeThrow_C Function /Engine/Transient.REINST_SKEL_KnifeThrow_C_140:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.24:976][383]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb18d74b8, Size=4, Default__SKEL_KnifeThrow_C Function /Game/_Scenes/KnifeThrow.SKEL_KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.37:703][874]BlueprintLog: New page: Compile KnifeThrow
+[2018.09.26-06.59.37:744][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb18d74b8, Size=4
+[2018.09.26-06.59.37:744][874]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb2ea2768, Size=4, Default__SKEL_KnifeThrow_C Function /Engine/Transient.REINST_SKEL_KnifeThrow_C_142:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.37:781][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be79a6b00, Size=816
+[2018.09.26-06.59.37:782][874]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bbafe5d00, Size=816, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_144:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.37:794][874]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b7612b800, Size=928, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.37:891][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb2ea2768, Size=4
+[2018.09.26-06.59.37:891][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb18d6ef8, Size=4
+[2018.09.26-06.59.37:891][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb3db1c58, Size=4
+[2018.09.26-06.59.38:738][936]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bbafe5d00, Size=816
+[2018.09.26-06.59.38:833][936]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b7612b800, Size=928
+[2018.09.26-06.59.38:833][936]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b304a0800, Size=928, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_148:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.38:846][936]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b679bcc00, Size=928, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-06.59.39:210][936]LogSavePackage: Save=450.33ms
+[2018.09.26-06.59.39:210][936]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/KnifeThrow6348D473443A8070D675B4AC3A917353.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap'
+[2018.09.26-06.59.39:212][936]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap
+[2018.09.26-06.59.39:242][936]LogFileHelpers: Saving map 'KnifeThrow' took 0.569
+[2018.09.26-06.59.46:500][776]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb2b27c80, Size=4, Default__SKEL_KnifeThrow_C Function /Game/_Scenes/KnifeThrow.SKEL_KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.00.06:199][ 90]BlueprintLog: New page: Compile KnifeThrow
+[2018.09.26-07.00.06:236][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb2b27c80, Size=4
+[2018.09.26-07.00.06:236][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029bb2762fe8, Size=4, SKEL_KnifeThrow_C_0 Function /Engine/Transient.REINST_SKEL_KnifeThrow_C_152:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.00.06:273][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b679bcc00, Size=928
+[2018.09.26-07.00.06:273][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b8259b800, Size=928, KnifeThrow_C_1 Function /Engine/Transient.REINST_KnifeThrow_C_154:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.00.06:286][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b8259a400, Size=928, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.00.06:383][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b304a0800, Size=928
+[2018.09.26-07.00.06:383][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be00af100, Size=352
+[2018.09.26-07.00.06:383][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b80cae800, Size=352
+[2018.09.26-07.00.06:383][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb2762fe8, Size=4
+[2018.09.26-07.00.06:384][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be2b21180, Size=352
+[2018.09.26-07.00.06:384][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb1da0400, Size=352
+[2018.09.26-07.00.06:384][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76dfb700, Size=352
+[2018.09.26-07.00.07:083][134]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b8259b800, Size=928
+[2018.09.26-07.00.07:175][134]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b8259a400, Size=928
+[2018.09.26-07.00.07:175][134]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b8393a400, Size=928, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_158:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.00.07:187][134]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b83938800, Size=928, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.00.07:553][134]LogSavePackage: Save=453.61ms
+[2018.09.26-07.00.07:554][134]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/KnifeThrow98683A5D4C02A8FA155F07B82B9322DD.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap'
+[2018.09.26-07.00.07:556][134]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap
+[2018.09.26-07.00.07:585][134]LogFileHelpers: Saving map 'KnifeThrow' took 0.565
+[2018.09.26-07.00.11:800][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-07.00.11:842][603]LogTemp: Repeating last play command: Simulate
+[2018.09.26-07.00.11:862][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.00.11:862][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-07.00.11:862][603]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 03:00:11)
+[2018.09.26-07.00.11:862][603]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-07.00.11:875][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012369s)
+[2018.09.26-07.00.11:875][603]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-07.00.11:876][603]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.09.26-07.00.11:876][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013139s)
+[2018.09.26-07.00.11:892][603]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b8393a400, Size=928
+[2018.09.26-07.00.11:902][603]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-07.00.11:911][603]LogInit: FAudioDevice initialized.
+[2018.09.26-07.00.11:946][603]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-07.00.11:946][603]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-07.00.11:949][603]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-17.00.11
+[2018.09.26-07.00.11:949][603]LogWorld: Bringing up level for play took: 0.002896
+[2018.09.26-07.00.11:950][603]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-07.00.11:952][603]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow 0.648
+[2018.09.26-07.00.11:955][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.00.16:485][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2018.09.26-07.00.29:381][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-07.00.29:461][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.00.29:553][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.00.35:327][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-07.00.35:394][158]LogTemp: Repeating last play command: Simulate
+[2018.09.26-07.00.35:413][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.00.35:413][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-07.00.35:413][158]PIE: New page: SIE session: KnifeThrow (27 Sep 2018 03:00:35)
+[2018.09.26-07.00.35:413][158]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_KnifeThrow
+[2018.09.26-07.00.35:426][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012503s)
+[2018.09.26-07.00.35:427][158]LogAIModule: Creating AISystem for world KnifeThrow
+[2018.09.26-07.00.35:427][158]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.09.26-07.00.35:427][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/KnifeThrow.KnifeThrow to /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow (0.013240s)
+[2018.09.26-07.00.35:450][158]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.26-07.00.35:459][158]LogInit: FAudioDevice initialized.
+[2018.09.26-07.00.35:488][158]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.26-07.00.35:488][158]LogLoad: Game class is 'GameModeBase'
+[2018.09.26-07.00.35:491][158]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_KnifeThrow.KnifeThrow up for play (max tick rate 0) at 2018.09.26-17.00.35
+[2018.09.26-07.00.35:491][158]LogWorld: Bringing up level for play took: 0.002881
+[2018.09.26-07.00.35:492][158]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-07.00.35:494][158]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_KnifeThrow 0.191
+[2018.09.26-07.00.35:497][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.01.11:190][835]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2018.09.26-07.01.49:970][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-07.01.50:602][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.01.50:643][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow' with GeneratedClass '/Game/_Scenes/KnifeThrow.KnifeThrow_C' with ClassGeneratedBy '/Game/_Scenes/KnifeThrow.KnifeThrow:PersistentLevel.KnifeThrow'
+[2018.09.26-07.01.52:278][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b83938800, Size=928
+[2018.09.26-07.01.52:278][838]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029b67878800, Size=928, Default__KnifeThrow_C Function /Engine/Transient.REINST_KnifeThrow_C_162:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.01.52:291][838]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029be062b400, Size=928, Default__KnifeThrow_C Function /Game/_Scenes/KnifeThrow.KnifeThrow_C:ExecuteUbergraph_KnifeThrow
+[2018.09.26-07.01.52:657][838]LogSavePackage: Save=453.76ms
+[2018.09.26-07.01.52:657][838]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/KnifeThrowEA1C2A3045FD235D6173A99D35F5284D.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap'
+[2018.09.26-07.01.52:659][838]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/KnifeThrow.umap
+[2018.09.26-07.01.52:689][838]LogFileHelpers: Saving map 'KnifeThrow' took 0.567
+[2018.09.26-07.01.55:414][124]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b67878800, Size=928
+[2018.09.26-07.01.58:686][506]LogSlate: Window 'CIU_CarnEvil_Final - Unreal Editor' being destroyed
+[2018.09.26-07.01.58:876][507]Cmd: QUIT_EDITOR
+[2018.09.26-07.01.59:781][507]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.26-07.01.59:791][507]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.26-07.01.59:791][507]LogExit: Preparing to exit.
+[2018.09.26-07.02.00:822][507]LogExit: Editor shut down
+[2018.09.26-07.02.00:826][507]LogExit: Transaction tracking system shut down
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76df0580, Size=352
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b76e1f400, Size=352
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b270e9600, Size=800
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b31bb5fc0, Size=24
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b270ea400, Size=800
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b270eb900, Size=800
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2b3d9000, Size=968
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2be71980, Size=800
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b761dc100, Size=800
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2be70b80, Size=800
+[2018.09.26-07.02.00:834][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029b2bd45000, Size=752
+[2018.09.26-07.02.00:837][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb10b9680, Size=4
+[2018.09.26-07.02.00:837][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bb10b9678, Size=4
+[2018.09.26-07.02.00:838][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029bdfb96c80, Size=352
+[2018.09.26-07.02.00:838][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029be062b400, Size=928
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/' was aborted.
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.26-07.02.00:980][507]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.09.26-07.02.01:082][507]LogExit: Object subsystem successfully closed.
+[2018.09.26-07.02.01:120][507]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.26-07.02.01:124][507]LogD3D11RHI: Shutdown
+[2018.09.26-07.02.01:124][507]LogD3D11RHI: CleanupD3DDevice
+[2018.09.26-07.02.01:127][507]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.26-07.02.01:136][507]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.09.26-07.02.01:136][507]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (578)
+[2018.09.26-07.02.01:136][507]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.09.26-07.02.01:136][507]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.09.26-07.02.01:136][507]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.09.26-07.02.01:136][507]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.09.26-07.02.01:136][507]LogDirectoryWatcher: A directory notification for 'D:/Game Engines/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.09.26-07.02.01:136][507]LogDirectoryWatcher: A directory notification for 'D:/Game Engines/Epic Games/UE_4.19/Enterprise/FeaturePacks/' was aborted.
+[2018.09.26-07.02.01:137][507]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.09.26-07.02.01:137][507]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.09.26-07.02.01:137][507]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.09.26-07.02.01:137][507]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Collections/' was aborted.
+[2018.09.26-07.02.01:137][507]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Developers/Matt/Collections/' was aborted.
+[2018.09.26-07.02.01:137][507]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Collections/' was aborted.
+[2018.09.26-07.02.01:137][507]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.09.26-07.02.01:137][507]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.09.26-07.02.01:137][507]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.09.26-07.02.01:138][507]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.09.26-07.02.01:139][507]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.09.26-07.02.01:139][507]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.09.26-07.02.01:139][507]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.09.26-07.02.02:042][507]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.09.26-07.02.02:042][507]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.09.26-07.02.02:042][507]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.09.26-07.02.02:042][507]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.09.26-07.02.02:042][507]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.09.26-07.02.02:042][507]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.09.26-07.02.02:042][507]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.09.26-07.02.02:043][507]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.09.26-07.02.02:108][507]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.09.26-07.02.02:115][507]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.09.26-07.02.02:115][507]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.09.26-07.02.02:116][507]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.09.26-07.02.02:117][507]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.09.26-07.02.02:165][507]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.09.26-07.02.02:166][507]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.09.26-07.02.02:169][507]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.09.26-07.02.02:170][507]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.09.26-07.02.02:271][507]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.09.26-07.02.02:372][507]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.09.26-07.02.02:372][507]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.09.26-07.02.02:372][507]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.09.26-07.02.02:372][507]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.09.26-07.02.02:372][507]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.09.26-07.02.02:372][507]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.09.26-07.02.02:372][507]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.09.26-07.02.02:373][507]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.09.26-07.02.02:373][507]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.09.26-07.02.02:373][507]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.09.26-07.02.02:373][507]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.09.26-07.02.02:374][507]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.09.26-07.02.02:374][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.09.26-07.02.02:374][507]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.09.26-07.02.02:374][507]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.09.26-07.02.02:550][507]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.09.26-07.02.02:550][507]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.09.26-07.02.02:550][507]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.09.26-07.02.02:552][507]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.09.26-07.02.02:558][507]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.09.26-07.02.02:559][507]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.09.26-07.02.02:559][507]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.09.26-07.02.02:560][507]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.09.26-07.02.02:561][507]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.09.26-07.02.02:632][507]LogDerivedDataCache: Shutdown
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.09.26-07.02.02:632][507]LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.09.26-07.02.02:632][507]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.26-07.02.02:633][507]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.26-07.02.02:633][507]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.26-07.02.02:633][507]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B012D47AB-45D6-F0B9-6350-25AAF67D2127%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=8670ddc143f166d963b47d878f9a65f4%7C60970d98e3a64dd2a97c27b60aa77d2a%7Cbc5c8457-a208-415d-8abb-8bae24e0202f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.26-07.02.02:661][507]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.26-07.02.02:662][507]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.26-07.02.02:662][507]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.26-07.02.02:662][507]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.26-07.02.02:662][507]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.26-07.02.02:663][507]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.26-07.02.02:663][507]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.26-07.02.02:663][507]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.26-07.02.02:664][507]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.26-07.02.02:677][507]LogExit: Exiting.
+[2018.09.26-07.02.02:694][507]Log file closed, 09/26/18 17:02:02
