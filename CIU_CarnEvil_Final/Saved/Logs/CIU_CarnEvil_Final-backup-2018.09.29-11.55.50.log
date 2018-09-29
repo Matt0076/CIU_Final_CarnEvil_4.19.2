@@ -1,0 +1,1631 @@
+﻿Log file open, 09/29/18 11:44:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CIU_CarnEvil_Final
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-194175332) SRandInit(-194175332).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.006045
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.559s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-QTNQBAN (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Game Engines/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.29-01.44.49:479][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-01.44.49:479][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.29-01.44.49:490][  0]LogInit: Computer: DESKTOP-QTNQBAN
+[2018.09.29-01.44.49:490][  0]LogInit: User: Matt
+[2018.09.29-01.44.49:490][  0]LogInit: CPU Page size=4096, Cores=10
+[2018.09.29-01.44.49:490][  0]LogInit: High frequency timer resolution =3.234378 MHz
+[2018.09.29-01.44.49:490][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.09.29-01.44.49:490][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.29-01.44.49:490][  0]LogMemory: Process Physical Memory: 277.35 MB used, 277.35 MB peak
+[2018.09.29-01.44.49:490][  0]LogMemory: Process Virtual Memory: 273.16 MB used, 273.16 MB peak
+[2018.09.29-01.44.49:490][  0]LogMemory: Physical Memory: 13947.39 MB used,  18498.98 MB free, 32446.36 MB total
+[2018.09.29-01.44.49:490][  0]LogMemory: Virtual Memory: 4843.56 MB used,  18498.98 MB free, 134217728.00 MB total
+[2018.09.29-01.44.49:506][  0]LogInit: Using OS detected language (en-GB).
+[2018.09.29-01.44.49:506][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.29-01.44.49:508][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.09.29-01.44.49:866][  0]LogStreaming: Display: Took  0.360s to EndInitTextLocalization.
+[2018.09.29-01.44.49:866][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.29-01.44.49:885][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.29-01.44.49:885][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.29-01.44.50:029][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.29-01.44.50:098][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.09.29-01.44.50:098][  0]LogD3D11RHI:       11127/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.29-01.44.50:100][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.29-01.44.50:100][  0]LogD3D11RHI:       0/0/16223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.29-01.44.50:100][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.29-01.44.50:108][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.29-01.44.50:108][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.29-01.44.50:108][  0]LogWindows: EnumDisplayDevices:
+[2018.09.29-01.44.50:108][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.09.29-01.44.50:108][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.29-01.44.50:108][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.29-01.44.50:108][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.09.29-01.44.50:108][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.29-01.44.50:108][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.09.29-01.44.50:108][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.29-01.44.50:108][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.29-01.44.50:108][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.09.29-01.44.50:146][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.29-01.44.50:146][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.29-01.44.50:146][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.29-01.44.50:168][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.29-01.44.50:169][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Intermediate/Shaders/WorkingDirectory/1328/).
+[2018.09.29-01.44.50:169][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/512DDE3A41BF0219C484C885507681C9/'.
+[2018.09.29-01.44.50:334][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.29-01.44.50:344][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.29-01.44.50:354][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.29-01.44.50:365][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.29-01.44.50:375][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.29-01.44.50:386][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.29-01.44.50:396][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.29-01.44.50:406][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.29-01.44.50:412][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.29-01.44.50:420][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.29-01.44.50:430][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.29-01.44.50:439][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.29-01.44.50:449][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.29-01.44.50:458][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.29-01.44.50:468][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.29-01.44.50:489][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.29-01.44.50:489][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.29-01.44.50:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-01.44.50:504][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.29-01.44.50:537][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-01.44.50:546][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-01.44.50:556][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.29-01.44.50:565][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.29-01.44.50:575][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.29-01.44.50:584][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.29-01.44.50:585][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.29-01.44.50:652][  0]LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.29-01.44.50:652][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.29-01.44.50:652][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.29-01.44.50:652][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.29-01.44.51:189][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.29-01.44.51:252][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.29-01.44.51:252][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.29-01.44.51:252][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.29-01.44.51:252][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.29-01.44.51:252][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.29-01.44.51:252][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.29-01.44.51:265][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.29-01.44.51:277][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.29-01.44.51:277][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.29-01.44.51:277][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.29-01.44.51:287][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.29-01.44.51:287][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.29-01.44.51:287][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-01.44.51:288][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-01.44.51:384][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.09.29-01.44.51:643][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-01.44.51:753][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.29-01.44.51:754][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.29-01.44.51:755][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.29-01.44.51:755][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.29-01.44.51:755][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.29-01.44.51:755][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.29-01.44.51:778][  0]LogNetVersion: CIU_CarnEvil_Final , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2718905845)
+[2018.09.29-01.44.52:151][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.055665 seconds
+[2018.09.29-01.44.52:155][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.29-01.44.52:155][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.09.29-01.44.52:155][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.29-01.44.53:503][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.29-01.44.53:526][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.29-01.44.53:766][  0]SourceControl: Source control is disabled
+[2018.09.29-01.44.53:766][  0]SourceControl: Source control is disabled
+[2018.09.29-01.44.53:776][  0]SourceControl: Source control is disabled
+[2018.09.29-01.44.53:785][  0]SourceControl: Source control is disabled
+[2018.09.29-01.44.54:107][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.29-01.44.54:235][  0]LogOcInput: OculusInput pre-init called
+[2018.09.29-01.44.54:308][  0]LogEngine: Initializing Engine...
+[2018.09.29-01.44.59:509][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.09.29-01.44.59:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-01.44.59:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-01.44.59:673][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.29-01.44.59:743][  0]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.44.59:758][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-01.44.59:834][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Matt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.29-01.44.59:849][  0]LogInit: Texture streaming: Enabled
+[2018.09.29-01.44.59:861][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.29-01.44.59:905][  0]LogInit: Transaction tracking system initialized
+[2018.09.29-01.44.59:920][  0]BlueprintLog: New page: Editor Load
+[2018.09.29-01.44.59:966][  0]LocalizationService: Localization service is disabled
+[2018.09.29-01.45.00:042][  0]LogConsoleResponse: Display: 
+[2018.09.29-01.45.00:142][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.29-01.45.00:142][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.29-01.45.00:142][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.29-01.45.00:142][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-01.45.00:142][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-01.45.00:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/' took 0.04s
+[2018.09.29-01.45.00:375][  0]SourceControl: Source control is disabled
+[2018.09.29-01.45.00:375][  0]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-01.45.00:375][  0]LightingResults: New page: Lighting Build
+[2018.09.29-01.45.00:377][  0]MapCheck: New page: Map Check
+[2018.09.29-01.45.00:377][  0]LightingResults: New page: Lighting Build
+[2018.09.29-01.45.00:464][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025658246cf8, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.29-01.45.00:467][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025658246cf8, Size=24
+[2018.09.29-01.45.00:467][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025658246cf8, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_0:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.29-01.45.00:469][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025658246248, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.09.29-01.45.00:502][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025658254800, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.29-01.45.00:529][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025658254800, Size=968
+[2018.09.29-01.45.00:529][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002564d542c00, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_10:ExecuteUbergraph_BP_MotionController
+[2018.09.29-01.45.00:549][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002564d541c00, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.09.29-01.45.00:555][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256505bee80, Size=800, Default__BP_Button_Quit_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Quit.BP_Button_Quit_C:ExecuteUbergraph_BP_Button_Quit
+[2018.09.29-01.45.00:561][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256505bee80, Size=800
+[2018.09.29-01.45.00:561][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256505bee80, Size=800, Default__BP_Button_Quit_C Function /Engine/Transient.REINST_BP_Button_Quit_C_12:ExecuteUbergraph_BP_Button_Quit
+[2018.09.29-01.45.00:567][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256505bd980, Size=800, Default__BP_Button_Quit_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Quit.BP_Button_Quit_C:ExecuteUbergraph_BP_Button_Quit
+[2018.09.29-01.45.00:573][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256505beb00, Size=800, Default__BP_Button_Start_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Start.BP_Button_Start_C:ExecuteUbergraph_BP_Button_Start
+[2018.09.29-01.45.00:580][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256505beb00, Size=800
+[2018.09.29-01.45.00:580][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256505beb00, Size=800, Default__BP_Button_Start_C Function /Engine/Transient.REINST_BP_Button_Start_C_14:ExecuteUbergraph_BP_Button_Start
+[2018.09.29-01.45.00:586][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256505bcb80, Size=800, Default__BP_Button_Start_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Start.BP_Button_Start_C:ExecuteUbergraph_BP_Button_Start
+[2018.09.29-01.45.00:592][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002565062c400, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.29-01.45.00:603][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002565062c400, Size=752
+[2018.09.29-01.45.00:603][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002564d499000, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_16:ExecuteUbergraph_MotionControllerPawn
+[2018.09.29-01.45.00:612][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002565041ee00, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.09.29-01.45.00:671][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025650681348, Size=8, Default__VR_Menu_C Function /Game/_Scenes/VR_Menu.VR_Menu_C:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.45.00:672][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025650681348, Size=8
+[2018.09.29-01.45.00:672][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025650681348, Size=8, Default__VR_Menu_C Function /Engine/Transient.REINST_VR_Menu_C_18:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.45.00:673][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256506812a8, Size=8, Default__VR_Menu_C Function /Game/_Scenes/VR_Menu.VR_Menu_C:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.45.00:730][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.769428ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.09.29-01.45.00:988][  0]LogAIModule: Creating AISystem for world VR_Menu
+[2018.09.29-01.45.00:998][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-01.45.01:009][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025658246cf8, Size=24
+[2018.09.29-01.45.01:010][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002564d542c00, Size=968
+[2018.09.29-01.45.01:010][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256505bee80, Size=800
+[2018.09.29-01.45.01:010][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256505beb00, Size=800
+[2018.09.29-01.45.01:010][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002564d499000, Size=752
+[2018.09.29-01.45.01:010][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025650681348, Size=8
+[2018.09.29-01.45.01:011][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-01.45.01:059][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.339ms to complete.
+[2018.09.29-01.45.01:059][  0]LogFileHelpers: Loading map 'VR_Menu' took 0.685
+[2018.09.29-01.45.01:177][  0]LogCollectionManager: Loaded 0 collections in 0.001015 seconds
+[2018.09.29-01.45.01:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Collections/' took 0.01s
+[2018.09.29-01.45.01:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Developers/Matt/Collections/' took 0.01s
+[2018.09.29-01.45.01:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Collections/' took 0.01s
+[2018.09.29-01.45.01:216][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.29-01.45.01:224][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2452 classes and 558 folders.
+[2018.09.29-01.45.01:230][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.29-01.45.01:267][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.29-01.45.01:270][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.29-01.45.01:358][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.29-01.45.01:358][  0]LogLoad: (Engine Initialization) Total time: 14.85 seconds
+[2018.09.29-01.45.01:358][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.29-01.45.01:716][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.29-01.45.01:717][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-01.45.01:719][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.29-01.45.01:723][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.29-01.45.01:839][  1]LogRenderer: Reallocating scene render targets to support 1024x480 Format 10 NumSamples 1 (Frame:1).
+[2018.09.29-01.45.02:062][  1]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-01.45.02:376][  2]LogAssetRegistry: Asset discovery search completed in 11.0151 seconds
+[2018.09.29-01.45.02:380][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.29-01.45.02:380][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.09.29-01.45.06:840][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2018.09.29-01.45.11:578][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.45.43:891][704]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-01.45.43:900][704]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Matt/Desktop/Mars.png)
+[2018.09.29-01.45.43:905][704]LogTexture: Display: Building textures: Mars (BGRA8, 269X269)
+[2018.09.29-01.45.50:533][484]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.45.50:847][484]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.45.50:857][484]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.45.50:880][484]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.45.50:895][484]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-01.45.50:898][484]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.09.29-01.45.50:906][484]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.29-01.45.51:110][491]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-01.45.51:676][553]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.45.51:754][557]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.45.51:754][557]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.45.51:779][560]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.45.51:780][560]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.45.51:780][560]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.45.51:780][560]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.45.51:780][560]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.45.51:811][564]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.45.51:811][564]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.45.51:811][564]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.45.51:811][564]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.45.51:811][564]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.45.51:811][564]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.45.51:864][570]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.45.51:864][570]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.45.51:888][572]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.45.51:927][575]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.45.51:945][576]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.45.52:967][685]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.45.52:967][685]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.45.52:967][685]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.45.52:967][685]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.45.52:967][685]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.45.52:967][685]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.45.58:586][353]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.45.58:595][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.45.58:602][353]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.45.58:627][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-01.45.58:630][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.09.29-01.45.58:633][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-01.45.58:707][354]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.45.58:796][356]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.45.58:816][357]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.45.58:816][357]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.45.58:836][358]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.45.58:836][358]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.45.58:836][358]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.45.58:864][360]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.45.58:864][360]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.45.58:864][360]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.45.58:864][360]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.45.58:897][363]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.45.58:908][364]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.45.58:908][364]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.45.58:908][364]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.45.58:934][367]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.45.58:943][368]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.45.58:967][370]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.45.59:075][374]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.45.59:160][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.45.59:160][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.45.59:379][394]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.45.59:379][394]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.45.59:379][394]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.45.59:379][394]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.45.59:379][394]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.45.59:379][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.46.02:990][812]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.03:003][812]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.03:005][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-01.46.03:114][819]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.03:202][823]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.03:223][824]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.46.03:248][825]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.46.03:248][825]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.46.03:262][826]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.46.03:262][826]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.46.03:282][828]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.46.03:282][828]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.46.03:282][828]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.46.03:282][828]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.46.03:282][828]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.46.03:282][828]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.46.03:334][833]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.46.03:334][833]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.46.03:334][833]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.46.03:363][836]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.46.03:751][864]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.09.29-01.46.03:751][864]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.09.29-01.46.03:751][864]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.09.29-01.46.03:751][864]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.46.03:751][864]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.46.03:751][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.46.06:208][157]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.06:222][157]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.06:224][157]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-01.46.06:339][165]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.06:433][169]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.06:434][169]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.46.06:434][169]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.46.06:458][170]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.46.06:458][170]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.46.06:458][170]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.46.06:490][173]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.46.06:490][173]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.46.06:490][173]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.46.06:490][173]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.46.06:525][177]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.46.06:526][177]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.46.06:526][177]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.46.06:526][177]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.46.06:560][181]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.46.06:560][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.46.06:960][212]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.09.29-01.46.06:960][212]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.09.29-01.46.06:960][212]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.09.29-01.46.06:960][212]MaterialEditorStats: Vertex shader: 40 instructions
+[2018.09.29-01.46.06:960][212]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.46.06:960][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.46.11:602][767]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.11:615][767]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.11:621][767]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-01.46.11:737][774]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.11:811][777]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.11:811][777]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.46.11:840][778]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.46.11:840][778]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.46.11:840][778]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.46.11:871][780]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.46.11:871][780]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.46.11:871][780]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.46.11:871][780]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.46.11:905][783]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.46.11:905][783]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.46.11:905][783]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.46.11:905][783]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.46.11:905][783]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.46.11:944][787]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.46.11:944][787]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.46.12:356][815]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.46.12:356][815]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.46.12:356][815]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.46.12:356][815]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.46.12:356][815]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.46.12:356][815]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.46.13:488][946]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.13:538][947]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.13:631][956]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.46.13:692][959]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.46.13:711][960]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.46.13:726][961]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.46.13:741][962]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.46.13:752][963]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.46.13:762][964]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.46.13:763][964]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.46.13:763][964]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.46.13:763][964]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.46.13:763][964]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.46.13:807][969]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.46.13:807][969]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.46.13:807][969]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.46.13:807][969]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.46.14:185][  0]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.46.14:186][  0]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.46.14:186][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.46.14:186][  0]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.46.14:186][  0]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.46.14:186][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.46.16:987][334]LogMaterialEditor: Applying material moonBetter_Mat
+[2018.09.29-01.46.17:382][334]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.46.17:419][334]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.46.17:445][334]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.46.17:487][334]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.46.17:523][334]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy moonBetter_Mat, compiling. 
+[2018.09.29-01.46.18:025][334]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-01.46.18:025][334]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-01.46.18:025][334]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-01.46.18:025][334]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-01.46.18:025][334]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-01.46.18:025][334]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-01.46.18:025][334]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.46.18:026][334]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.46.18:028][334]TextureStreamingBuild: Display: Compiling optional shaders took 0.511 seconds.
+[2018.09.29-01.46.19:905][530]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.46.19:905][530]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.46.19:905][530]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.46.19:905][530]MaterialEditorStats: Vertex shader: 45 instructions
+[2018.09.29-01.46.19:905][530]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.46.19:905][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.46.31:409][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.46.31:484][899]LogTemp: Repeating last play command: Simulate
+[2018.09.29-01.46.31:502][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.46.31:502][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.46.31:503][899]PIE: New page: SIE session: VR_Menu (29 Sep 2018 21:46:31)
+[2018.09.29-01.46.31:503][899]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_VR_Menu
+[2018.09.29-01.46.31:508][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005455s)
+[2018.09.29-01.46.31:509][899]LogAIModule: Creating AISystem for world VR_Menu
+[2018.09.29-01.46.31:509][899]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.09.29-01.46.31:509][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/VR_Menu.VR_Menu to /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu (0.006178s)
+[2018.09.29-01.46.31:525][899]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.46.31:535][899]LogInit: FAudioDevice initialized.
+[2018.09.29-01.46.31:577][899]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.29-01.46.31:577][899]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-01.46.31:579][899]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu up for play (max tick rate 0) at 2018.09.29-11.46.31
+[2018.09.29-01.46.31:580][899]LogWorld: Bringing up level for play took: 0.001813
+[2018.09.29-01.46.31:580][899]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.46.31:582][899]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.09.29-01.46.31:584][899]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_VR_Menu -0.585
+[2018.09.29-01.46.31:606][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.46.32:386][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.46.32:420][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.46.32:964][ 52]LogTemp: Repeating last play command: Simulate
+[2018.09.29-01.46.32:983][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.46.32:983][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.46.32:983][ 52]PIE: New page: SIE session: VR_Menu (29 Sep 2018 21:46:32)
+[2018.09.29-01.46.32:983][ 52]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_VR_Menu
+[2018.09.29-01.46.32:989][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005569s)
+[2018.09.29-01.46.32:990][ 52]LogAIModule: Creating AISystem for world VR_Menu
+[2018.09.29-01.46.32:990][ 52]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2018.09.29-01.46.32:990][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/VR_Menu.VR_Menu to /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu (0.006337s)
+[2018.09.29-01.46.33:005][ 52]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.46.33:013][ 52]LogInit: FAudioDevice initialized.
+[2018.09.29-01.46.33:046][ 52]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.29-01.46.33:046][ 52]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-01.46.33:047][ 52]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu up for play (max tick rate 0) at 2018.09.29-11.46.33
+[2018.09.29-01.46.33:048][ 52]LogWorld: Bringing up level for play took: 0.001581
+[2018.09.29-01.46.33:048][ 52]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.46.33:050][ 52]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_VR_Menu 0.88
+[2018.09.29-01.46.33:053][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.46.36:487][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.46.47:592][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.46.50:562][124]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.29-01.46.55:211][658]LogTexture: Display: Building textures: Mars (BGRA8, 269X269)
+[2018.09.29-01.47.00:545][296]LogTexture: Display: Building textures: Mars (BGRA8, 269X269)
+[2018.09.29-01.47.02:604][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/IntroScene/Moon/Mars" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/Mars.uasset" SILENT=true
+[2018.09.29-01.47.02:626][540]LogSavePackage: Save=19.79ms
+[2018.09.29-01.47.02:626][540]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Mars204F9AE6412E7CE5D002D6A05D8936D4.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/Mars.uasset'
+[2018.09.29-01.47.02:628][540]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/Mars.uasset
+[2018.09.29-01.47.04:819][788]LogSlate: Window 'Mars' being destroyed
+[2018.09.29-01.47.17:804][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-01.47.43:554][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.47.43:638][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.47.43:670][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.47.45:784][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/VR_Menu" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.29-01.47.45:815][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256506812a8, Size=8
+[2018.09.29-01.47.45:815][946]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256a1c38270, Size=8, Default__VR_Menu_C Function /Engine/Transient.REINST_VR_Menu_C_22:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.47.45:815][946]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256a1c381b0, Size=8, Default__VR_Menu_C Function /Game/_Scenes/VR_Menu.VR_Menu_C:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.47.45:917][946]LogSavePackage: Save=103.12ms
+[2018.09.29-01.47.45:917][946]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/VR_Menu37634B4C4BA6B29956D9FA80A6C4B08B.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu.umap'
+[2018.09.29-01.47.45:919][946]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu.umap
+[2018.09.29-01.47.45:949][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Scenes/VR_Menu_BuiltData" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu_BuiltData.uasset" SILENT=true
+[2018.09.29-01.47.46:009][946]LogSavePackage: Save=42.96ms
+[2018.09.29-01.47.46:009][946]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/VR_Menu_BuiltData6E42522E4DB4EE63199D26B33BCC0B67.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu_BuiltData.uasset'
+[2018.09.29-01.47.46:010][946]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu_BuiltData.uasset
+[2018.09.29-01.47.50:648][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab980f00, Size=800, Default__BP_Button_Bowling_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Bowling.BP_Button_Bowling_C:ExecuteUbergraph_BP_Button_Bowling
+[2018.09.29-01.47.50:655][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab980f00, Size=800
+[2018.09.29-01.47.50:655][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab980f00, Size=800, Default__BP_Button_Bowling_C Function /Engine/Transient.REINST_BP_Button_Bowling_C_24:ExecuteUbergraph_BP_Button_Bowling
+[2018.09.29-01.47.50:661][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab97dd00, Size=800, Default__BP_Button_Bowling_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Bowling.BP_Button_Bowling_C:ExecuteUbergraph_BP_Button_Bowling
+[2018.09.29-01.47.50:667][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab97eb00, Size=800, Default__BP_Button_ClownBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_ClownBall.BP_Button_ClownBall_C:ExecuteUbergraph_BP_Button_ClownBall
+[2018.09.29-01.47.50:673][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab97eb00, Size=800
+[2018.09.29-01.47.50:673][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab97eb00, Size=800, Default__BP_Button_ClownBall_C Function /Engine/Transient.REINST_BP_Button_ClownBall_C_26:ExecuteUbergraph_BP_Button_ClownBall
+[2018.09.29-01.47.50:679][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab989280, Size=800, Default__BP_Button_ClownBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_ClownBall.BP_Button_ClownBall_C:ExecuteUbergraph_BP_Button_ClownBall
+[2018.09.29-01.47.50:685][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab989600, Size=800, Default__BP_Button_HeartBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_HeartBall.BP_Button_HeartBall_C:ExecuteUbergraph_BP_Button_HeartBall
+[2018.09.29-01.47.50:691][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab989600, Size=800
+[2018.09.29-01.47.50:691][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab989600, Size=800, Default__BP_Button_HeartBall_C Function /Engine/Transient.REINST_BP_Button_HeartBall_C_28:ExecuteUbergraph_BP_Button_HeartBall
+[2018.09.29-01.47.50:697][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab988f00, Size=800, Default__BP_Button_HeartBall_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_HeartBall.BP_Button_HeartBall_C:ExecuteUbergraph_BP_Button_HeartBall
+[2018.09.29-01.47.50:703][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab988480, Size=800, Default__BP_Button_KnifeThrow_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_KnifeThrow.BP_Button_KnifeThrow_C:ExecuteUbergraph_BP_Button_KnifeThrow
+[2018.09.29-01.47.50:709][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab988480, Size=800
+[2018.09.29-01.47.50:709][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab988480, Size=800, Default__BP_Button_KnifeThrow_C Function /Engine/Transient.REINST_BP_Button_KnifeThrow_C_30:ExecuteUbergraph_BP_Button_KnifeThrow
+[2018.09.29-01.47.50:715][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab988800, Size=800, Default__BP_Button_KnifeThrow_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_KnifeThrow.BP_Button_KnifeThrow_C:ExecuteUbergraph_BP_Button_KnifeThrow
+[2018.09.29-01.47.50:721][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab98a400, Size=800, Default__BP_Button_Menu_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Menu.BP_Button_Menu_C:ExecuteUbergraph_BP_Button_Menu
+[2018.09.29-01.47.50:728][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab98a400, Size=800
+[2018.09.29-01.47.50:728][493]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256ab98a400, Size=800, Default__BP_Button_Menu_C Function /Engine/Transient.REINST_BP_Button_Menu_C_32:ExecuteUbergraph_BP_Button_Menu
+[2018.09.29-01.47.50:734][493]LogUObjectGlobals: Created PersistentFrame Addr=0x000002565b698800, Size=800, Default__BP_Button_Menu_C Function /Game/Blueprints/_GeneralUse/Buttons/BP_Button_Menu.BP_Button_Menu_C:ExecuteUbergraph_BP_Button_Menu
+[2018.09.29-01.47.51:751][493]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.29-01.47.51:809][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab98a400, Size=800
+[2018.09.29-01.47.51:809][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab988480, Size=800
+[2018.09.29-01.47.51:810][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab989600, Size=800
+[2018.09.29-01.47.51:810][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab97eb00, Size=800
+[2018.09.29-01.47.51:810][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab980f00, Size=800
+[2018.09.29-01.47.51:810][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256a1c38270, Size=8
+[2018.09.29-01.47.53:033][493]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-01.47.53:103][493]LogSavePackage: Save=15.78ms
+[2018.09.29-01.47.53:103][493]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/moonBetter_Mat312FDE514208525866B981A543A44C3C.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/moonBetter_Mat.uasset'
+[2018.09.29-01.47.53:105][493]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/moonBetter_Mat.uasset
+[2018.09.29-01.47.53:106][493]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/IntroScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-01.47.53:106][493]LightingResults: New page: Lighting Build
+[2018.09.29-01.47.53:107][493]LoadErrors: New page: Loading map: IntroScene.umap
+[2018.09.29-01.47.53:107][493]MapCheck: New page: Map Check
+[2018.09.29-01.47.53:107][493]LightingResults: New page: Lighting Build
+[2018.09.29-01.47.53:115][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256a1c381b0, Size=8
+[2018.09.29-01.47.53:183][493]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-01.47.53:220][493]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-01.47.53:270][493]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.008ms to complete.
+[2018.09.29-01.47.53:271][493]LogFileHelpers: Loading map 'IntroScene' took 0.166
+[2018.09.29-01.47.57:658][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2018.09.29-01.47.58:723][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.48.06:927][ 83]LogTemp: Repeating last play command: Simulate
+[2018.09.29-01.48.06:945][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.48.06:945][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.48.06:945][ 83]PIE: New page: SIE session: IntroScene (29 Sep 2018 21:48:06)
+[2018.09.29-01.48.06:945][ 83]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.29-01.48.06:954][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009003s)
+[2018.09.29-01.48.06:955][ 83]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.29-01.48.06:955][ 83]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2018.09.29-01.48.06:955][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.009710s)
+[2018.09.29-01.48.06:971][ 83]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.48.06:980][ 83]LogInit: FAudioDevice initialized.
+[2018.09.29-01.48.07:017][ 83]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.29-01.48.07:017][ 83]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-01.48.07:020][ 83]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.29-11.48.07
+[2018.09.29-01.48.07:020][ 83]LogWorld: Bringing up level for play took: 0.003106
+[2018.09.29-01.48.07:021][ 83]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.48.07:023][ 83]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 0.854
+[2018.09.29-01.48.07:040][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.48.07:487][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.48.07:523][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.48.13:559][850]Cmd: TRANSACTION UNDO
+[2018.09.29-01.48.13:559][850]LogEditorTransaction: Undo Replace component used material
+[2018.09.29-01.48.13:572][850]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.48.13:585][850]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.48.14:364][930]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.48.14:462][934]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.48.14:478][935]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.48.14:478][935]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.48.14:492][936]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.48.14:492][936]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.48.14:492][936]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.48.14:492][936]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.48.14:492][936]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.48.14:543][941]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.48.14:543][941]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.48.14:543][941]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.48.14:543][941]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.48.14:543][941]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.48.14:543][941]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.48.15:005][975]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.48.15:005][975]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.48.15:005][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.48.15:005][975]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.48.15:005][975]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.48.15:005][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.48.18:157][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-01.50.14:127][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2018.09.29-01.50.15:327][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.50.18:698][493]LogTemp: Repeating last play command: Simulate
+[2018.09.29-01.50.18:717][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.50.18:718][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.50.18:718][493]PIE: New page: SIE session: IntroScene (29 Sep 2018 21:50:18)
+[2018.09.29-01.50.18:718][493]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.29-01.50.18:727][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008871s)
+[2018.09.29-01.50.18:727][493]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.29-01.50.18:727][493]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.09.29-01.50.18:727][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.009561s)
+[2018.09.29-01.50.18:743][493]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.50.18:753][493]LogInit: FAudioDevice initialized.
+[2018.09.29-01.50.18:783][493]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.29-01.50.18:783][493]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-01.50.18:787][493]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.29-11.50.18
+[2018.09.29-01.50.18:787][493]LogWorld: Bringing up level for play took: 0.003050
+[2018.09.29-01.50.18:787][493]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.50.18:790][493]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 0.62
+[2018.09.29-01.50.18:806][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.50.19:680][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.50.19:715][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.50.20:242][657]LogTemp: Repeating last play command: Simulate
+[2018.09.29-01.50.20:261][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.50.20:261][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.50.20:261][657]PIE: New page: SIE session: IntroScene (29 Sep 2018 21:50:20)
+[2018.09.29-01.50.20:261][657]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_IntroScene
+[2018.09.29-01.50.20:270][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008604s)
+[2018.09.29-01.50.20:270][657]LogAIModule: Creating AISystem for world IntroScene
+[2018.09.29-01.50.20:270][657]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.09.29-01.50.20:270][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/IntroScene.IntroScene to /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene (0.009309s)
+[2018.09.29-01.50.20:286][657]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.50.20:295][657]LogInit: FAudioDevice initialized.
+[2018.09.29-01.50.20:332][657]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.29-01.50.20:332][657]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-01.50.20:335][657]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_IntroScene.IntroScene up for play (max tick rate 0) at 2018.09.29-11.50.20
+[2018.09.29-01.50.20:335][657]LogWorld: Bringing up level for play took: 0.003062
+[2018.09.29-01.50.20:336][657]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.50.20:338][657]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_IntroScene 0.169
+[2018.09.29-01.50.20:340][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.50.39:075][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.50.39:210][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.50.39:243][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene' with GeneratedClass '/Game/_Scenes/IntroScene.IntroScene_C' with ClassGeneratedBy '/Game/_Scenes/IntroScene.IntroScene:PersistentLevel.IntroScene'
+[2018.09.29-01.51.30:390][980]Cmd: TRANSACTION UNDO
+[2018.09.29-01.51.30:390][980]LogEditorTransaction: Undo Replace component used material
+[2018.09.29-01.51.30:394][980]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.51.30:405][980]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.51.31:182][ 63]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.51.31:278][ 67]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.51.31:288][ 68]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.51.31:288][ 68]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.51.31:305][ 70]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.51.31:305][ 70]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.51.31:324][ 72]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.51.31:325][ 72]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.51.31:333][ 73]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.51.31:333][ 73]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.51.31:333][ 73]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.51.31:361][ 76]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.51.31:361][ 76]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.51.31:361][ 76]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.51.31:361][ 76]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.51.31:786][109]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.51.31:786][109]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.51.31:786][109]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.51.31:787][109]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.51.31:787][109]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.51.31:787][109]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.51.38:781][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.51.44:652][639]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256a7fa8200, Size=8, Default__VR_Menu_C Function /Game/_Scenes/VR_Menu.VR_Menu_C:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.51.44:652][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256a7fa8200, Size=8
+[2018.09.29-01.51.44:652][639]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256a7fa8200, Size=8, Default__VR_Menu_C Function /Engine/Transient.REINST_VR_Menu_C_34:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.51.44:653][639]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256a7fa9b00, Size=8, Default__VR_Menu_C Function /Game/_Scenes/VR_Menu.VR_Menu_C:ExecuteUbergraph_VR_Menu
+[2018.09.29-01.51.44:673][639]LogAIModule: Creating AISystem for world VR_Menu
+[2018.09.29-01.51.44:687][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256a7fa8200, Size=8
+[2018.09.29-01.51.44:689][639]Cmd: MAP LOAD FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/_Scenes/VR_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-01.51.44:689][639]LightingResults: New page: Lighting Build
+[2018.09.29-01.51.44:690][639]LoadErrors: New page: Loading map: VR_Menu.umap
+[2018.09.29-01.51.44:691][639]MapCheck: New page: Map Check
+[2018.09.29-01.51.44:691][639]LightingResults: New page: Lighting Build
+[2018.09.29-01.51.44:787][639]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-01.51.44:824][639]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-01.51.44:873][639]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.593ms to complete.
+[2018.09.29-01.51.44:874][639]LogFileHelpers: Loading map 'VR_Menu' took 0.186
+[2018.09.29-01.51.47:645][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon)
+[2018.09.29-01.51.49:438][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.52.06:924][238]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.06:934][238]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.52.06:942][238]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.52.06:966][238]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.09.29-01.52.06:969][238]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-01.52.06:971][238]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-01.52.07:712][314]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.52.07:808][317]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.52.07:823][318]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.52.07:833][319]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.52.07:834][319]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.07:834][319]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.07:834][319]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.52.07:834][319]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.52.07:881][324]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.52.07:881][324]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.52.07:881][324]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.52.07:881][324]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.52.07:881][324]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.52.07:881][324]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.52.07:933][329]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.52.07:933][329]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.52.07:962][332]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.52.08:004][335]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.52.08:023][336]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.52.08:209][343]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.52.08:228][344]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.52.09:542][492]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.09:558][492]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.09:558][492]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-01.52.09:694][500]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.09:743][502]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.09:764][503]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.52.09:764][503]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.52.09:764][503]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.52.09:802][505]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.52.09:802][505]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.52.09:815][506]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.52.09:816][506]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.52.09:816][506]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.52.09:840][508]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.52.09:840][508]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.52.09:840][508]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.52.09:866][510]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.52.09:866][510]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.52.09:892][512]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.52.09:903][513]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.52.10:274][539]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.09.29-01.52.10:274][539]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.09.29-01.52.10:274][539]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.09.29-01.52.10:274][539]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.52.10:274][539]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.52.10:274][539]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.52.13:168][884]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.13:185][884]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.13:185][884]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-01.52.13:291][891]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.13:371][894]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.13:393][895]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.52.13:410][896]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.52.13:410][896]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.52.13:429][897]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.52.13:439][898]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.52.13:440][898]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.52.13:440][898]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.52.13:467][901]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.52.13:478][902]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.52.13:478][902]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.52.13:478][902]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.52.13:478][902]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.52.13:512][906]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.52.13:520][907]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.52.13:520][907]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.52.13:923][934]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.09.29-01.52.13:923][934]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.09.29-01.52.13:923][934]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.09.29-01.52.13:923][934]MaterialEditorStats: Vertex shader: 40 instructions
+[2018.09.29-01.52.13:923][934]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.52.13:923][934]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.52.16:228][210]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.16:241][210]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.16:254][210]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.16:361][218]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.16:418][220]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.16:445][221]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.52.16:479][222]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.52.16:479][222]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.52.16:479][222]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.52.16:497][223]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.52.16:497][223]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.52.16:524][225]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.52.16:524][225]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.52.16:524][225]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.52.16:524][225]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.52.16:524][225]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.52.16:561][228]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.52.16:561][228]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.52.16:584][230]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.52.16:594][231]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.52.16:980][257]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.52.16:980][257]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.52.16:980][257]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.52.16:980][257]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.52.16:980][257]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.52.16:980][257]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.52.19:102][505]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.19:153][506]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.19:226][513]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.52.19:310][517]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-01.52.19:330][518]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-01.52.19:347][519]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-01.52.19:347][519]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-01.52.19:373][521]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-01.52.19:374][521]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-01.52.19:390][523]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-01.52.19:391][523]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-01.52.19:391][523]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-01.52.19:391][523]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.52.19:428][527]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-01.52.19:428][527]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-01.52.19:428][527]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-01.52.19:428][527]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-01.52.19:809][559]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.52.19:809][559]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.52.19:809][559]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.52.19:809][559]MaterialEditorStats: Vertex shader: 44 instructions
+[2018.09.29-01.52.19:809][559]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.52.19:809][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.52.22:765][911]LogMaterialEditor: Applying material moonBetter_Mat
+[2018.09.29-01.52.23:170][911]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-01.52.23:205][911]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-01.52.23:224][911]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.23:261][911]LogMaterial: Missing cached shader map for material moonBetter_Mat, compiling. 
+[2018.09.29-01.52.23:296][911]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy moonBetter_Mat, compiling. 
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-01.52.23:795][911]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-01.52.23:796][911]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-01.52.23:799][911]TextureStreamingBuild: Display: Compiling optional shaders took 0.510 seconds.
+[2018.09.29-01.52.24:231][950]LogMaterialEditor: Saving and Compiling material moonBetter_Mat
+[2018.09.29-01.52.25:631][950]LogSavePackage: Save=15.49ms
+[2018.09.29-01.52.25:631][950]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/moonBetter_MatE41413DE4512A12883AD30AB90E92CDD.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/moonBetter_Mat.uasset'
+[2018.09.29-01.52.25:633][950]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/moonBetter_Mat.uasset
+[2018.09.29-01.52.25:638][950]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-01.52.25:638][950]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2018.09.29-01.52.25:638][950]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-01.52.25:638][950]MaterialEditorStats: Vertex shader: 45 instructions
+[2018.09.29-01.52.25:638][950]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.52.25:638][950]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.52.27:576][178]LogTemp: Repeating last play command: Simulate
+[2018.09.29-01.52.27:594][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.52.27:594][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.52.27:594][178]PIE: New page: SIE session: VR_Menu (29 Sep 2018 21:52:27)
+[2018.09.29-01.52.27:594][178]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_VR_Menu
+[2018.09.29-01.52.27:600][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005580s)
+[2018.09.29-01.52.27:600][178]LogAIModule: Creating AISystem for world VR_Menu
+[2018.09.29-01.52.27:601][178]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.09.29-01.52.27:601][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/VR_Menu.VR_Menu to /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu (0.006342s)
+[2018.09.29-01.52.27:617][178]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.52.27:627][178]LogInit: FAudioDevice initialized.
+[2018.09.29-01.52.27:660][178]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.29-01.52.27:660][178]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-01.52.27:662][178]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu up for play (max tick rate 0) at 2018.09.29-11.52.27
+[2018.09.29-01.52.27:663][178]LogWorld: Bringing up level for play took: 0.001629
+[2018.09.29-01.52.27:663][178]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.52.27:665][178]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_VR_Menu -0.504
+[2018.09.29-01.52.27:684][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.52.28:326][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.52.28:355][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.52.29:121][342]LogTemp: Repeating last play command: Simulate
+[2018.09.29-01.52.29:139][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.52.29:140][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.52.29:140][342]PIE: New page: SIE session: VR_Menu (29 Sep 2018 21:52:29)
+[2018.09.29-01.52.29:140][342]LogPlayLevel: Creating play world package: /Game/_Scenes/UEDPIE_0_VR_Menu
+[2018.09.29-01.52.29:146][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005731s)
+[2018.09.29-01.52.29:146][342]LogAIModule: Creating AISystem for world VR_Menu
+[2018.09.29-01.52.29:146][342]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2018.09.29-01.52.29:146][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Scenes/VR_Menu.VR_Menu to /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu (0.006408s)
+[2018.09.29-01.52.29:161][342]LogInit: XAudio2 using 'Headset Earphone (Sennheiser Communication Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.52.29:171][342]LogInit: FAudioDevice initialized.
+[2018.09.29-01.52.29:203][342]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.09.29-01.52.29:203][342]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-01.52.29:204][342]LogWorld: Bringing World /Game/_Scenes/UEDPIE_0_VR_Menu.VR_Menu up for play (max tick rate 0) at 2018.09.29-11.52.29
+[2018.09.29-01.52.29:205][342]LogWorld: Bringing up level for play took: 0.001606
+[2018.09.29-01.52.29:205][342]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.52.29:207][342]PIE: Play in editor start time for /Game/_Scenes/UEDPIE_0_VR_Menu 1.037
+[2018.09.29-01.52.29:209][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.53.08:874][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.53.08:949][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.53.08:980][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu' with GeneratedClass '/Game/_Scenes/VR_Menu.VR_Menu_C' with ClassGeneratedBy '/Game/_Scenes/VR_Menu.VR_Menu:PersistentLevel.VR_Menu'
+[2018.09.29-01.53.13:577][561]LogMaterialEditor: Saving and Compiling material moonBetter_Mat
+[2018.09.29-01.53.13:616][561]LogSavePackage: Save=6.63ms
+[2018.09.29-01.53.13:616][561]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/moonBetter_Mat6699B55948CBC442717AF39DBAA8F28F.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/moonBetter_Mat.uasset'
+[2018.09.29-01.53.13:617][561]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/moonBetter_Mat.uasset
+[2018.09.29-01.53.16:361][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/IntroScene/Moon/Mars" FILE="C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/Mars.uasset" SILENT=true
+[2018.09.29-01.53.16:388][876]LogSavePackage: Save=8.63ms
+[2018.09.29-01.53.16:388][876]LogSavePackage: Moving 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/MarsDE77E8574668D3DB6E1C4F9DF390EAD8.tmp' to 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/Mars.uasset'
+[2018.09.29-01.53.16:389][876]LogSavePackage: Display: Finished SavePackage C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Materials/IntroScene/Moon/Mars.uasset
+[2018.09.29-01.53.22:596][605]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.09.29-01.53.22:682][605]LogSlate: Window 'CIU_CarnEvil_Final - Unreal Editor' being destroyed
+[2018.09.29-01.53.22:927][606]Cmd: QUIT_EDITOR
+[2018.09.29-01.53.23:939][606]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-01.53.23:950][606]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.29-01.53.23:950][606]LogExit: Preparing to exit.
+[2018.09.29-01.53.24:829][606]LogExit: Editor shut down
+[2018.09.29-01.53.24:832][606]LogExit: Transaction tracking system shut down
+[2018.09.29-01.53.24:833][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002565b698800, Size=800
+[2018.09.29-01.53.24:833][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab988800, Size=800
+[2018.09.29-01.53.24:833][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025658246248, Size=24
+[2018.09.29-01.53.24:833][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab988f00, Size=800
+[2018.09.29-01.53.24:833][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab989280, Size=800
+[2018.09.29-01.53.24:833][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002564d541c00, Size=968
+[2018.09.29-01.53.24:834][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256ab97dd00, Size=800
+[2018.09.29-01.53.24:834][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256505bd980, Size=800
+[2018.09.29-01.53.24:834][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256505bcb80, Size=800
+[2018.09.29-01.53.24:845][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002565041ee00, Size=752
+[2018.09.29-01.53.24:860][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256a7fa9b00, Size=8
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/' was aborted.
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.29-01.53.25:032][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.09.29-01.53.25:114][606]LogExit: Object subsystem successfully closed.
+[2018.09.29-01.53.25:158][606]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.29-01.53.25:159][606]LogD3D11RHI: Shutdown
+[2018.09.29-01.53.25:159][606]LogD3D11RHI: CleanupD3DDevice
+[2018.09.29-01.53.25:161][606]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.29-01.53.25:170][606]LogModuleManager: Shutting down and abandoning module TextureEditor (580)
+[2018.09.29-01.53.25:170][606]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.09.29-01.53.25:170][606]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (576)
+[2018.09.29-01.53.25:170][606]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.09.29-01.53.25:170][606]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.09.29-01.53.25:170][606]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.09.29-01.53.25:171][606]LogDirectoryWatcher: A directory notification for 'D:/Game Engines/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.09.29-01.53.25:171][606]LogDirectoryWatcher: A directory notification for 'D:/Game Engines/Epic Games/UE_4.19/Enterprise/FeaturePacks/' was aborted.
+[2018.09.29-01.53.25:171][606]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.09.29-01.53.25:171][606]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.09.29-01.53.25:171][606]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.09.29-01.53.25:171][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Collections/' was aborted.
+[2018.09.29-01.53.25:172][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Content/Developers/Matt/Collections/' was aborted.
+[2018.09.29-01.53.25:172][606]LogDirectoryWatcher: A directory notification for 'C:/Users/Matt/Desktop/CIU_Final_CarnEvil_4.19.2/CIU_CarnEvil_Final/Saved/Collections/' was aborted.
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.09.29-01.53.25:172][606]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.09.29-01.53.25:173][606]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.09.29-01.53.25:173][606]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.09.29-01.53.25:173][606]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.09.29-01.53.25:173][606]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.09.29-01.53.25:173][606]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.09.29-01.53.25:173][606]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.09.29-01.53.25:255][606]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.09.29-01.53.25:255][606]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.09.29-01.53.25:255][606]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.09.29-01.53.25:255][606]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.09.29-01.53.25:255][606]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.09.29-01.53.25:255][606]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.09.29-01.53.25:256][606]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.09.29-01.53.25:343][606]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.09.29-01.53.25:344][606]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.09.29-01.53.25:345][606]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.09.29-01.53.25:378][606]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.09.29-01.53.25:379][606]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.09.29-01.53.25:382][606]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.09.29-01.53.25:383][606]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.09.29-01.53.25:484][606]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.09.29-01.53.25:775][606]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.09.29-01.53.25:775][606]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.09.29-01.53.25:775][606]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.09.29-01.53.25:775][606]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.09.29-01.53.25:775][606]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.09.29-01.53.25:775][606]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.09.29-01.53.25:776][606]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.09.29-01.53.25:776][606]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.09.29-01.53.25:776][606]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.09.29-01.53.25:776][606]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.09.29-01.53.25:777][606]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.09.29-01.53.25:778][606]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.09.29-01.53.25:778][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.09.29-01.53.25:778][606]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.09.29-01.53.25:778][606]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.09.29-01.53.26:579][606]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.09.29-01.53.26:579][606]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.09.29-01.53.26:579][606]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.09.29-01.53.26:583][606]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.09.29-01.53.26:589][606]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.09.29-01.53.26:591][606]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.09.29-01.53.26:592][606]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.09.29-01.53.26:666][606]LogDerivedDataCache: Shutdown
+[2018.09.29-01.53.26:666][606]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.09.29-01.53.26:666][606]LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.29-01.53.26:667][606]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.29-01.53.26:668][606]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.29-01.53.26:668][606]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.29-01.53.26:668][606]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.29-01.53.26:668][606]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.29-01.53.26:668][606]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.29-01.53.26:668][606]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.29-01.53.26:668][606]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.29-01.53.26:668][606]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.29-01.53.26:668][606]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BA592BC-4DAF-DCC8-DBB3-9983C82C47AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=8670ddc143f166d963b47d878f9a65f4%7C60970d98e3a64dd2a97c27b60aa77d2a%7Cbc5c8457-a208-415d-8abb-8bae24e0202f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.29-01.53.26:673][606]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.29-01.53.26:674][606]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.29-01.53.26:674][606]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.29-01.53.26:674][606]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.29-01.53.26:674][606]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.29-01.53.26:674][606]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.29-01.53.26:674][606]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.29-01.53.26:674][606]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.29-01.53.26:675][606]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.29-01.53.26:691][606]LogExit: Exiting.
+[2018.09.29-01.53.26:707][606]Log file closed, 09/29/18 11:53:26
